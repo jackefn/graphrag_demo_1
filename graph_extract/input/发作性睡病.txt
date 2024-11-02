@@ -1,0 +1,558 @@
+
+
+· 406   ·                                                                       中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5
+
+·指南 ·
+中国发作性睡病诊断与治疗指南（2022 版）
+中华医学会神经病学分会睡眠障碍学组
+通 信 作 者 ：王 玉 平 ，首 都 医 科 大 学 宣 武 医 院 神 经 内 科 ，北 京  100053，Email： wangyuping01@sina.cn
+
+【摘要】 发作性睡病是一种神经内科的罕见病。《中国发作性睡病诊断与治疗指南（2022 版）》结 合国内外相关研究进展、新药的应用，及时更新我国现有指南 。本指南增加了：（ 1）流行病学和发病机 制的最新研究结果和精准的特征性症状描述；（2）推荐实用的量表，增加操作整夜多导睡眠和多次睡 眠潜伏期试验的细节和设计诊断流程图；（3）针对不同症状，对药物治疗按照推荐及证据等级高低逐 一说明 。新版指南在内容上更丰富，且科学性和实用性更强，更具临床指导价值。
+【关键词】 发作性睡病 ；  日间过度思睡 ； 猝倒症 ； 入睡前幻觉 ； 治疗
+
+Chinese guidelines for diagnosis and treatment of narcolepsy (2022)
+Chinese Society of Sleep Disorders
+Corresponding  author:   Wang  Yuping,  Department  of  Neurology,  Xuanwu  Hospital,  Capital  Medical University, Beijing 100053, China, Email: wangyuping01 @sina.cn
+【 Abstract 】   Narcolepsy is a rare disease in neurology. The  Chinese guidelines for diagnosis and  treatment  of  narcolepsy   (2022)  updated  the   existing  guidelines  in   China.  This  guideline broadened the  contents  of the latest findings  on  epidemiology, pathogenesis  and  characteristic  of symptoms; recommended practical scales, added details of nocturnal polysomnogram and multiple sleep  latency  test  operations  and  designed  diagnostic  flow  charts.  For  different  symptoms,  drugs were explained one by one according to the level of recommendation and evidence.
+【Key words】     Narcolepsy;        Excessive    daytime   sleepiness;        Cataplexy;       Hypnagogic hallucinations;    Therapy
+Conflicts of interest: None declared
+
+
+发 作 性 睡 病（narcolepsy）的 概 念 由 法 国 医 生  Gélineau 在 1880 年首次提出［1］，临床上以日间过度  思 睡（excessive  daytime   sleepiness，EDS）、猝 倒  （cataplexy）及 夜 间 睡 眠 紊 乱（nocturnal  sleep  disturbance）为主要特征［2⁃4］。发作性睡病可发生在  幼儿阶段，从发病到确诊平均延迟 8~22 年［5⁃8］，病程  贯穿求学和个性发展关键时期，临床症状严重影响  患者的学习、生活和社会功能，导致患者无法接受  正常教育、就业困难、收入降低、失去升职机会等。 因此，及时、规范的诊断和治疗对于改善患者病情， 帮助患者回归社会极为重要 。为提高临床医生对  发作性睡病的认识，指导对发作性睡病的诊断与治
+
+
+疗，由中华医学会神经病学分会睡眠障碍学组发 起，邀请相关领域专家按照循证医学原则，参考国 内外相关指南及研究成果，在 2015 年制定的《中国 发作性睡病诊断与治疗指南》［9］基础上，结合近年 来发作性睡病的流行病学、诊断、治疗等出现的新 进展，对相应内容进行补充和更新。
+
+流行病学
+
+发作性睡病是全球公认的罕见病［10⁃11］，不同国 家报道其患病率有较大差异 。 已公开的流行病学 资 料 显 示 ，全 球 各 地 区 患 病 率 从 0.000  23% 到
+
+
+DOI：10.3760/cma.j.cn113694-20211228-00934    收稿日期 2021-12-28            本文编辑 汪谋岳
+引用本文：中华医学会神经病学分会睡眠障碍学组 . 中国发作性睡病诊断与治疗指南（2022 版）[J]. 中华 神经科杂志, 2022, 55(5): 406-420. DOI: 10.3760/cma.j.cn113694-20211228-00934.
+
+
+
+中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5                                                                                     ·  407    ·
+
+
+0.05% 不等［12⁃13］。 以色列是患病率最低的国家，仅  为 0.000  23%［12］；在 亚 洲 地 区 ，韩 国 患 病 率 为  0.015%［14］，中国台湾地区的患病率为 0.012 9%［15］。 中国大陆目前尚缺乏系统性 、大规模的流行病学  研究。
+发作性睡病发病可能与 H1N1 流感病毒感染  及流感疫苗使用有关 。 中国 2010 年发作性睡病新  发病例数明显升高，可能与 2009 年冬季 H1N1 流感  流行有关［16⁃17］。北欧一些国家报道，2010 年发作性  睡 病 发 病 率 增 加 6~9 倍［18］，可 能 与 2009 年 冬 季  H1N1 流感病毒感染及甲型流感疫苗使用有关［19］。 欧洲高加索人的平均发病年龄为 23 岁，而中国人  的高峰发病年龄<10 岁 。男女均可患病，欧洲发作  性睡病网络中高加索人的发作性睡病患者男女性  别差异不大，但国内的一项回顾性研究结果显示中  国伴猝倒的发作性睡病患者男女比率为 2∶1［20］。
+发病机制
+
+研究结果表明，多基因易患性、自身免疫因素、 感染等影响睡眠与觉醒相关神经环路的功能，导致
+发作性睡病的发生［7，16，18⁃22］。
+一、遗传机制
+人类白细胞抗原（HLA）等位基因与发作性睡 病 1 型高度相关，DQB1*06：02、DQB1*03：01 与发 作性睡病 1 型密切相关；非 HLA 基因如：肿瘤坏死 因子 α2 以及嘌呤能受体 P2Y11 基因等也与发作性 睡病存在相关性。
+二、自身免疫机制
+外侧下丘脑分泌素（hypocretin，Hcrt）抗原和抗 Hcrt 自身抗体均位于 Hcrt 神经元上，导致其在发作
+性睡病患者血和脑脊液中缺乏可检测的抗体［23⁃26］。
+部 分 发 作 性 睡 病 患 者 的 体 内 TRIB2（tribbles  homolog 2）特异性抗体水平升高，但 TRIB2 抗体与  Hcrt 神经元损伤的因果关系尚存在不同的意见［24］。
+识别 Hcrt 的 CD4+和 CD8+T 细胞在发作性睡病患者中 表达升高［27⁃29］，H1N1 流感病毒引起的免疫应答，通 过递呈给 CD4+T 细胞 ，引发针对自身抗原的免疫 反应［30⁃31］。
+三、感染机制
+感染源（细菌或病毒）和疫苗接种后诱导产生 T 细胞相关性自身免疫反应进而诱发发作性睡病 症状，常见的有化脓性链球菌［32］、甲型流感病毒、甲
+型流感疫苗 Pandemrix（葛兰素史克公司，英国）等。
+
+
+四、神经环路变化
+发 作 性 睡 病 1 型 患 者 脑 脊 液 的 下 丘 脑 分 泌 素⁃1（hypocretin⁃1，Hcrt⁃1）水平下降，尸检进一步证 实发作性睡病 1 型患者约 90% 的 Hcrt 神经元选择 性 丢 失 ，继 而 导 致 了 腹 外 侧 导 水 管 周 围 灰 质 （ventrolateral periaqueductal gray）、被盖背外侧核/ 脑  桥  腹  外  侧  区  被  盖  核（laterodorsal    and pedunculopontine tegmentum nuclei）的胆碱能神经 元、蓝斑的去甲肾上腺素（noradrenaline）能和中缝 背核的 5⁃羟色胺（5⁃hydroxytryptamine）能神经元不 能抑制快速眼球运动（rapid eye movement，REM）睡 眠 的 发 生 ，以 及 通 过 蓝 斑 下 核（sublaterodorsal nucleus）影响脊髓运动神经元出现骨骼肌失张力和
+猝倒发作［22，33⁃34］。
+
+临床表现
+
+发作性睡病的主要临床表现为发作性 EDS、猝  倒、入睡前幻觉（hypnagogic hallucinations）、睡眠瘫  痪（sleep paralysis）、夜间睡眠紊乱［2⁃4］。EDS、猝倒、 入睡前幻觉和睡眠瘫痪合称发作性睡病四联症 。 其中，猝倒、入睡前幻觉、睡眠瘫痪可能与 REM 睡  眠相关 。此外，发作性睡病还可伴有肥胖、性早熟、 精神障碍、认知功能损害、偏头痛等症状 。发作性  睡病是一类终身性疾病，部分患者的猝倒发作会随  着年龄的增长而减轻甚至消失，但 EDS 会持续存  在，且病情可能出现波动。
+一、核心症状
+1.EDS：是发作性睡病的主要临床表现，绝大多  数患者有 EDS 症状［35］。具体表现为：白天难以遏制  的困倦或睡眠反复发作，患者在单调、无刺激的环  境中更容易入睡，日间小睡可暂时缓解睡意，并可  保持一段时间清醒 。一些患者可能在行走、吃饭、 说话等活动时突然睡眠发作，呈现出一些无意识的  行为或不刻板的动作 。无论患者夜间睡眠时间长  短，EDS 每日均会发生，并伴有持续注意力和精神  运动警觉性的下降。
+2. 猝倒：猝倒是发作性睡病 1 型最具特征性的 临床表现 ，发生率约 75%［35］，通常在 EDS 出现后 1 年内发生，也可表现为首发症状，先出现猝倒发 作的患者并不罕见，容易被误诊或漏诊 。 目前公认 的观点是，猝倒发作与清醒期 REM 睡眠片段插入 相关，患者在清醒期突然进入 REM 睡眠导致骨骼 肌失去张力［2］，表现为清醒期突然发生肌张力下降
+
+
+
+· 408   ·                                                                       中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5
+
+
+伴警觉性下降，但意识相对保留 。猝倒发作通常由 大笑、高兴等积极的情绪诱发，负面情绪如愤怒、悲 伤等也可诱发，少数患者进食、运动也可诱发猝倒 发作 。猝倒发作也可表现为局部骨骼肌无力，如眼 睑下垂、吐舌、言语不能、面部肌肉松弛，也可影响 到颈肩部、上肢和下肢，引起头下垂、肩下垂、上肢 下垂、膝盖弯曲、身体前倾，甚至累及全身，出现瘫 倒在地等症状表现；呼吸肌通常不受累，但呼吸频 率与幅度有所下降 。猝倒发作时间通常短暂（< 2 min），可以迅速完全恢复 。猝倒发作频率从数月 1 次到每天数次不等 。有时强烈的情感刺激，或者 抗猝倒药物突然撤药均可能引发猝倒频繁发作，严 重 时 可 持 续 数 小 时 ，称 为 猝 倒 持 续 状 态（status catapleticus）［2，36］。
+由于猝倒发作时的症状复杂多样，临床上容易 误诊 。不典型的猝倒发作包括一系列持续性肌无 力症状和局部运动增多的症状：如持续的垂头、溜 肩、持久的眼睑缩小和吐舌，步态不稳、强迫下蹲体 位等［37］；局部运动增多的症状可能与对抗猝倒发作 时所致的肌张力下降有关，较常见于儿童发病初期 和猝倒持续状态的患者，临床可表现为：反复的抬 眉、面部抽动、舌体搅拌、头部摇摆、颈部后仰、四肢 抽动 ，甚至躯干和肢体的一系列抽动样动作 等［37⁃38］。最近一项研究根据视频行为⁃脑电⁃肌电特 征，将猝倒发作分为诱发、对抗、无张力和恢复 4 个 阶段［39⁃40］。 因此 ，猝倒发作是一个连续的动态过 程，不仅表现有肌张力下降，也经常混合局部爆发 性 、短暂的肌张力增高 、抽动样动作，临床应注意 识别。
+3. 入睡前幻觉：在发作性睡病患者中发生率为 33%~80%［35］。入睡前幻觉是发生于觉醒⁃睡眠转换 期的一种梦境样体验，一般发生在入睡前，也有少 数患者发生在睡眠向觉醒转换期 。这种幻觉多伴 有恐怖或不愉快的体验，通常为视觉或体感幻觉 （如“灵魂出窍 ”感），也可表现为听觉、平衡觉或多 种感觉复合形式的幻觉 。其发生机制可能与从清 醒期直接进入到 REM 期睡眠相关，内在经历的梦 境如同幻觉一样。
+4. 睡眠瘫痪：发生在刚入睡或从睡眠向觉醒转 换过程中，可能是发作时患者直接进入 REM 睡眠 所致，通常发生率为 25%~50%［35］，发作时患者虽然 意识清醒，但无法自主活动或讲话，常伴呼吸困难 和各种形式的幻觉，多为恐怖性体验，一般持续数 十秒到数分钟，在外界刺激（身体受到触碰）下可立
+
+
+即恢复正常。
+5. 夜间睡眠紊乱：包括夜间睡眠不安，表现为 反复夜间睡眠中断、觉醒次数增多和时间延长，以 上导致睡眠片段化，发生率为 30%~95%［35］。可伴 有睡眠中周期性腿动、不自主运动、REM 期或非快 速眼球运动（nonrapid eye movement，NREM）期异态 睡 眠 及 阻 塞 性 睡 眠 呼 吸 暂 停（obstructive  sleep apnea，OSA）等 。 其 中 ，REM 期 睡 眠 行 为 障 碍 （REM sleep behavior disorder，RBD）在发作性睡病 人群中发生率为 36%~61% 。发作性睡病患者的 RBD 与非发作性睡病患者的 RBD 在临床表现方面 不尽相同，前者起病时间更早，但暴力性动作及夜 间发作次数较非发作性睡病患者少，目前尚无证据 显示合并发作性睡病的 RBD 表现是神经系统退行
+性病变的危险信号［41⁃42］。
+此外，OSA 在发作性睡病人群中也比较常见， 其发生率超过 24.8%，显著高于普通人群［43］，易漏  诊或误诊 。约 14.7% 的发作性睡病 1 型患者存在不  宁腿综合征，其预测因素［44］包括老年、血清铁蛋白  水平低（<75 μg/L）和（或）转铁蛋白饱和度低（<  45%）。
+二、其他症状
+1. 肥胖：无论是否存在猝倒以及是否经过药物  治疗，肥胖在发作性睡病 1 型患者中更为常见，其  体重指数（body mass index）多高于同龄人，通常≥  30，并且可在发病后 1 年内出现体重急剧增加［2，16］。 肥胖可能与思睡导致的体力活动减少、基础代谢率  减低有关，也与 Hcrt 能神经介导的能量代谢障碍、 食欲异常、自主神经系统活动变化有关［2］。
+2. 性早熟：意大利报道约 17% 的儿童期发病的 发作性睡病患者伴有性早熟［45］，国内报道该比例为 7.4%［16］，其机制可能与 Hcrt 能神经障碍相关的神 经⁃内分泌⁃代谢紊乱有关［46］。
+3. 精神障碍：25% 的发作性睡病患者有惊恐发 作或社交恐惧等症状；18%~57% 的发作性睡病患 者伴有抑郁、兴趣低下 、快感缺乏［47⁃48］。有病例报 道显示，发作性睡病可与精神分裂症并存，但相对 少见。
+4. 认知功能损害：Hcrt⁃1 与脑内多种神经递质 及前额叶功能相关，因此发作性睡病患者认知功能 损害常表现为工作记忆、执行功能和持续注意力缺 陷［49⁃50］。认知功能损害的程度与发作性睡病的严 重程度、是否合并猝倒发作、病程及诊断时机、治疗 等因素相关［51］。
+
+
+
+中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5                                                                                     ·  409    ·
+
+
+5. 偏头痛：有报道称发作性睡病 1 型患者中偏 头痛发生率显著增高 ，为 20%~45%，女性略多于 男性［52］。
+
+量表评估与实验室检查
+
+一、量表评估
+评估发作性睡病的核心症状及严重程度，用于 筛查、诊断和疗效评估。
+（一）睡眠相关量表
+1. EDS：Epworth 思 睡 量 表（Epworth Sleepiness Scale，ESS）用于评估日间思睡程度；斯坦福思睡量 表（Stanford Sleepiness Scale，SSS）适合测试受试者 当 下 的 主 观 倦 意［53］；Ullanlinna 发 作 性 睡 病 量 表 （The Ullanlinna Narcolepsy Scale）用于发作性睡病 思 睡 和 猝 倒 症 状 的 评 估 ；瑞 士 发 作 性 睡 病 量 表 （The Swiss Narcolepsy Scale，SNS）常用于筛查。
+2. 猝 倒 ：情 绪 触 发 猝 倒 问 卷（Cataplexy Emotional Questionnaire）是用于评估猝倒发作的简 明问卷。
+3. 其他睡眠障碍相关量表：国际不宁腿综合征 （International Restless Legs Syndrome）严重程度自 评量表：包括 10 个问题的主观量表，用于衡量不宁 腿综合征症状的严重程度；快速眼球运动睡眠行为 障 碍 筛 查 问 卷⁃香 港 版（Rapid⁃eye⁃movement Sleep Behavior Disorder Questionnaire Hongkong）用 于 评 价发作性睡病可能伴发的 RBD。
+（二）神经精神量表
+包括评价认知相关量表［简易精神状态检查量  表（Mini⁃Mental State Examination，MMSE）和 蒙 特  利尔认知评估量表（Montreal Cognitive Assessment， MoCA）］，评价精神状况的量表如阳性阴性症状量  表（Positive and Negative Syndrome Scale），可以评估  发作性睡病共病的焦虑抑郁量表，认知和精神状况  评 估 包 括 注 意 力 缺 陷 或 多 动 和 冲 动（Attention  Deficit Hyperactivity Disorder）量表，有些儿童患者  需要用到自闭症谱系筛查问卷（Autism Spectrum  Disorder Screening Questionnaire）筛查 、通过 MMSE  和 MoCA 评估患者认知水平。
+二、神经电生理检查
+全面的神经电生理检查包括夜间多导睡眠监  测（nocturnal polysomnography，nPSG）及次日进行日  间多次睡眠潜伏期试验（multiple sleep latency test，
+MSLT）。 诊断发作性睡病 1 型时，nPSG 及 MSLT 为
+
+
+可选检查项目 ，诊断发作性睡病 2 型时 ，nPSG 和  MSLT 为必选检查项目 。此外，nPSG 还有助于评估  夜间睡眠状况、发现夜间睡眠伴随的发作性事件， 如 ：REM 睡 眠 期 肌 张 力 失 弛 缓 现 象（REM sleep  without atonia，RWA），鉴别其他睡眠障碍如睡眠呼  吸 障 碍 和 周 期 性 肢 体 运 动（periodic  limb  movement，PLM）事件等，对于病情的全面评估具  有重要价值。
+1.nPSG：为排除异常昼夜作息习惯、睡眠不足  等因素对检查结果的影响，推荐在监测前 2 周，通  过体动记录仪或睡眠日记记录睡眠⁃觉醒时间表， 以确保持续和充足的睡眠时间，且这 2 周的数据采  集要包含 2 个周末，以了解工作日和周末可能出现  的作息差异，因为周末与平时的睡眠存在很大变异  性 。前夜 nPSG 要求患者卧床时间至少 7 h，卧床时  间应与受试者的主要睡眠时间一致 。检查不应在  一夜气道正压通气（positive airway pressure，PAP） 压力滴定后进行（包括分夜滴定或 PAP 滴定）。 发  作性睡病 nPSG特点主要表现为：入睡潜伏期缩短、 N1 期睡眠增加、N3 期睡眠减少等睡眠结构的改变， 并 可 能 出 现 入 睡 期 REM 睡 眠（sleep onset REM   period，SOREMP）、入睡后醒转次数增加、睡眠效率  下降 、微觉醒指数增加 、PLM 增加 、REM 睡眠期眼  动 指 数 升 高 、RWA 阳 性 并 出 现 梦 境 演 绎 行 为  （dream enactment behavior）等。
+2.MSLT：是发作性睡病的重要诊断依据，可量  化日间思睡程度 。MSLT 应该在 nPSG 监测次日进  行，并确保前夜睡眠时间大于 6 h 。nPSG 检查结束  时，注意避免在 REM 期唤醒受试者 。按照 AASM  （American  Academy  of  Sleep  Medicine）2.6 版 本 ， MSLT 由连续 5 次每次间隔 2 h 的小睡测试组成 。 第一次小睡测试应在 nPSG 结束后 1.5~3 h 内进行， 以后每两小时进行 1 次，应进行 5 次，如果已采集到  2 次 SOREMP，测试次数可以减少为 4 次 。SOREMP  不仅见于发作性睡病，也可见于睡眠剥夺、睡眠呼  吸障碍、抑郁状态等 。MSLT 阴性并不能完全排除  诊断，必要时需要重复 nPSG 和 MSLT 检查 。重复  进行 MSLT 检查的指征包括：首次检查受药物 、外  部环境、检查条件或其他因素的影响而得到阴性结  果，临床怀疑发作性睡病，但之前的 MSLT 结果为  阴性时。
+3. 清 醒 维 持 试 验（maintenance of wakefulness test，MWT）：用于评估受试者在日间安静环境中保 持清醒的能力，此检查不是发作性睡病的诊断性试
+
+
+
+· 410   ·                                                                       中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5
+
+
+验 。美国睡眠医学会推荐，当发作性睡病、OSA、轮  班工作等疾病或状态可能影响患者的日间觉醒能  力、对患者或他人构成潜在威胁时，建议通过 MWT   评估其日间保持清醒的能力，避免从事危险性职  业，并且可以作为药物疗效或不良反应的评价指  标 。试验中每次测试的持续时间、入睡判断标准、 患者所采取的体位在不同研究团队间存在一定差  异，尚无统一标准 。研究者可以根据研究目的，参  考相关文献制定操作流程。
+三、脑脊液 Hcrt⁃1 检测
+脑脊液中的 Hcrt⁃1 含量是发作性睡病 1 型的  确诊指标 。患者有发作性睡病的临床症状，且脑脊  液 Hcrt⁃1 浓度≤110 pg/ml 或小于以同一标准检验正  常者平均值的 1/3 时，诊断为发作性睡病 1 型［2⁃4，54］。 本指标的特异度和敏感度约为 90%。
+推荐测定脑脊液 Hcrt⁃1 的指征包括［2，54］：患者 具有 EDS 症状，但 MSLT 检查 1 次或多次结果为阴 性；新发病例，MSLT 结果阴性，却伴有典型猝倒发 作；由于个人原因或研究条件限制无法完成 MSLT 检查者；患者使用中枢神经系统药物并可能会对 MSLT 结果造成影响时；伴随睡眠呼吸紊乱或其他 类型睡眠障碍，而 MSLT 阳性而无法明确诊断者。
+四、基因检测
+大量研究已经证实，HLA 等位基因与发作性睡  病高度相关，尤其是发作性睡病 1 型 。HLA⁃DQB1*  06：02 等位基因是发作性睡病最重要的遗传风险因  素，其在发作性睡病 2 型患者的阳性率为 40%~50%， 而在发作性睡病 1 型患者中的阳性率高达 86%~  98%，存在 DQB1*06：02 增加患病风险 20 倍［55⁃57］。因  此，对于发作性睡病 1 型患者检测该基因是很重要  的，如果无猝倒症状且 DQB1*06：02 阴性基本可排  除发作性睡病 1 型 。DQB1*0301 也可增加发作性睡  病 1 型的发病风险，国内一项全基因组关联研究  （genome⁃wide association studies，GWAS）发现，DQB1*  0301 等 位 基 因 与 发 作 性 睡 病 早 年 发 病 有 关［58］。 HLA⁃DQB1*06：03、*06：01、*05：01、*06：09  和  DQB1*02 等位基因则表现为保护作用［59］。
+五、脑影像学检查
+不管是发作性睡病 1 型还是 2 型患者，至少首 次就诊时需进行脑核磁共振、CT 检查，有助于排除 相关的脑部肿瘤、脱髓鞘病、变性病及脑损伤导致 的继发性发作性睡病。
+六、免疫相关检测
+目前尚未发现发作性睡病特异性抗食欲素神
+
+
+经元及受体抗体 。但对于发病初期患者或疾病进  展的患者 ，应进行自身免疫脑炎相关抗体检测 。 TRIB2 被发现在发作性睡病 1 型患者的血清中含量  增高，且可能是食欲素神经元损害的结果［60］，目前  还缺乏循证医学研究证据。
+
+诊断标准
+
+依据国际睡眠障碍分类第 3 版（ICSD⁃3），将发 作性睡病分为 2 型［2］：发作性睡病 1 型，即 Hcrt 缺乏 综合征，既往称为伴猝倒的发作性睡病；发作性睡 病 2 型，既往称为不伴猝倒的发作性睡病 。发作性 睡病诊断流程见图 1。
+日间过度思睡≥3个月
+
+
+有猝倒发作
+
+标准MSLT检查平均睡眠潜伏期  ≤8 min , 且出现≥2次SOREMP
+
+检测脑脊液中Hcrt-1浓度
+
+≤110 pg/ml或正常 参考值的1/3
+MSLT：多次睡眠潜伏期试验；SOREMP：入睡期快速眼 球运动睡眠；Hcrt⁃1：下丘脑分泌素⁃1
+图 1    发作性睡病诊断流程（ 1，2 型）
+Figure 1    Diagnostic procedure for narcolepsy (types 1, 2)
+一、发作性睡病 1 型的诊断标准 必须同时满足以下 2 条标准：
+1. 每日出现日间难以克制的困倦欲睡或非预 期的日间入睡，症状持续至少 3 个月。
+2. 满足以下 1 项或 2 项条件：（ 1）有猝倒发作  （符合定义的基本特征），和经过标准的 MSLT 检查  平 均 睡 眠 潜 伏 期 ≤8 min，且 出 现 ≥2 次 睡 眠 始 发  REM 睡 眠 现 象 ，即 SOREMP 。 MSLT 检 查 前 进 行  nPSG 检查，出现 SOREMP（睡眠起始 15 min 内出现  的 REM 期）可以替代 1 次日间 MSLT 中的 SOREMP。 （2）放射免疫法检测脑脊液中 Hcrt⁃1 水平≤110 pg/ml  或<以同一标准检验正常者平均值的1/3。
+幼儿期的发作性睡病可能表现为夜晚睡眠时 间过长或日间打盹时间延长，如果临床强烈怀疑发 作性睡病 1 型，但 MSLT 的诊断标准不能满足，推荐 重复 MSLT 检查 。患者存在 EDS 和脑脊液 Hcrt⁃1 水
+
+
+
+中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5                                                                                     ·  411    ·
+
+
+平降低，即使不伴有猝倒发作，仍应诊断为发作性 睡病 1 型。
+二、发作性睡病 2 型的诊断标准 必须同时满足以下 5 条标准：
+1. 每日出现日间难以克制的困倦欲睡或非预 期的日间入睡，症状持续至少 3 个月。
+2. 标准 MSLT 检查平均睡眠潜伏期≤8 min，且 出现≥2 次 SOREMP 。MSLT 检查前进行 nPSG 检查 （保 证 6 h 以 上 睡 眠），出 现 SOREMP（睡 眠 起 始
+15 min 内出现的 REM 期）可以替代 1 次日间 MSLT 中的 SOREMP。
+3. 无猝倒发作。
+4. 放射免疫反应法检测脑脊液中 Hcrt⁃1 水平>
+110 pg/ml，或> 以同一标准检验正常者平均值的 1/3。
+5. 思睡症状和（或）MSLT 结果无法用其他原 因，如睡眠不足、OSA、睡眠时相延迟障碍、药物的 使用或撤药所解释。
+如果患者随后出现猝倒发作，应重新诊断为发 作性睡病 1 型 ；如果诊断做出后 ，经检测脑脊液 Hcrt⁃1 浓度≤110 pg/ml 或<经同一标准检验的正常 者 平 均 值 的 1/3，应 重 新 修 正 诊 断 为 发 作 性 睡 病1型。
+三、鉴别诊断
+（一）EDS 的鉴别
+1.OSA：主要表现为上午思睡，但发作性睡病的 日间思睡程度更重，在小睡后会感到一段时间的头 脑清醒，而 OSA 患者在小睡后多不会感到头脑清 醒 。此外 ，OSA 患者无猝倒发作 ，临床常将合并 OSA 的发作性睡病患者漏诊 。当患者日间思睡的 程度难以用 OSA 解释、思睡症状出现早于打鼾的发 生（如儿童时期发病）、经有效的无创通气治疗后日 间思睡改善不明显时，应怀疑存在发作性睡病的可 能 。可通过检测脑脊液 Hcrt 的含量来鉴别。
+2. 特发性睡眠增多：特发性睡眠增多患者常缺  乏 REM 睡眠相关的症状如猝倒、入睡前幻觉、睡眠  瘫痪等，MSLT 中未出现 2 次或 2 次以上 SOREMP。 与发作性睡病相比，特发性睡眠增多患者夜间睡眠  效率通常更高，可出现宿醉式睡眠，以及持续时间  更长但不解乏的日间小睡，患者常常无多梦主诉。
+3. 克莱恩⁃莱文综合征（Kleine⁃Levin syndrome， K⁃LS）：K⁃LS 以反复发作的过度思睡为主要临床特  征，同时伴有认知、精神和行为异常，发作间期功能  状态正常 。过度思睡每次持续 2 d 至 5 周，通常这
+
+
+种发作每年超过 1 次 。睡眠监测仅出现总睡眠时 间延长，无其他特异性表现。
+4. 睡眠不足综合征和睡眠⁃觉醒节律紊乱：日  间思睡不伴有猝到现象，而且只要保证充足的睡眠  时间和保持正常的作息时间就可以消除日间思睡。
+5. 神经和精神类疾病：中枢神经系统疾病如脑  部（尤其是下丘脑或中脑喙部）的感染 、血管性疾  病、肿瘤、外伤、结节、神经变性病以及某些遗传代  谢性疾病可能导致类似发作性睡病的表现，应诊断  为疾病引起的发作性睡病（继发性发作性睡病）。 借助于颅脑影像学和脑脊液等检查做出相应中枢  神经系统疾病的诊断 。精神疾病如不典型抑郁症、 双相障碍和躯体形式障碍也可以表现过度思睡，但  不会出现典型发作性睡病的 MSLT 特征和脑脊液  中食欲素水平的降低。
+6. 药物和物质滥用：镇静或催眠类药物、酒精  或滥用毒品可引起过度睡眠 、日间思睡或小睡增  多 。对于这类病例需要详细询问病史、用药史，一  般无需进行 nPSG，除非怀疑伴有其他睡眠障碍 。 对于病史不详的可疑患者可以给予必要的尿液毒  物学筛查。
+（二）猝倒的鉴别
+1. 癫痫：两者极易混淆，癫痫患者通常日间没 有不可抗拒的思睡发作，癫痫发作时可伴意识丧 失，不能回忆发作过程，发作期脑电图可见痫样放 电 。而发作性睡病患者猝倒发作时意识清醒或不 完全丧失，发作前常可预感到，并主动采取保护性 动作，避免或减少跌倒外伤，发作后可回忆发作过 程 。另外，录像显示与癫痫发作不同，猝倒发作的 动作不具备刻板性。
+2. 假性猝倒：精神疾病相关的假性猝倒发作  常常发生在有人在场的情况下突然倒下，但有保  护性姿势从未受过伤 。精神心理因素可以诱发， 暗示治疗和心理治疗能减少或消除发作，精神心  理 评 估 、MSLT 和 脑 脊 液 中 食 欲 素 检 测 有 助 于  鉴别。
+3. 其他：猝倒除了与部分正常人放声大笑时感 觉肌肉无力进行鉴别外，还要与低血压、短暂性脑 缺血发作、晕厥、神经肌肉疾病及睡眠瘫痪加以区 分 。在疑难病例中，是否抗抑郁药物治疗明显有 效，可能有助于猝倒的鉴别诊断。
+少数情况下要考虑存在诈病和物质滥用的可 能，MSLT 有助于鉴别上述疾病。
+
+
+
+· 412   ·                                                                       中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5
+
+
+治    疗
+
+一、治疗目标
+发作性睡病的总体治疗目标为：
+1. 通过心理行为疗法和药物治疗，减少 EDS、 控制猝倒、改善夜间睡眠。
+2. 帮助患者尽可能恢复日常生活和社会功能。
+3. 尽可能减轻共病的症状。
+4. 减少和避免药物干预带来的不良反应。
+二、非药物治疗
+控制发作性睡病症状首先需考虑非药物治疗， 这是治疗发作性睡病的基础 。同时，某些不宜进行  药物治疗的特殊患者（如怀孕和儿童早期），非药物  治疗是必要的方法 。非药物治疗可增强患者信心， 提高治疗依从性，改善发作性睡病症状，减少共病  发生。
+（一）日间规律小睡
+日间规律小睡可持续改善觉醒水平，并有助于  减少兴奋性药物和抗抑郁剂的使用剂量 。建议任  何年龄未服药和服用兴奋性药物的患者均进行日  间规律小睡，以改善主观和客观的过度思睡症状。 每日安排特定时间小睡 2~3 次，每次 15~20 min，对  缓解 EDS 和提高警觉性有显著效果 。对学龄期患  者，应重视午休的重要性。
+对多数患者，短时间的小睡（不超过 30 min）对 缓解症状即有明显帮助，但幼儿发作性睡病患者需 要相对较长时间的小睡才能获益。
+（二）睡眠卫生习惯
+良好的睡眠卫生习惯可有效缓解 EDS、减少共  病和提高治疗依从性 。这些习惯措施包括：维持有  利于睡眠的环境（如房间安静，光线、温度适宜等）， 保持规律的睡眠⁃觉醒节律；避免睡眠剥夺，保证充  足高质量夜间睡眠，夜间睡眠时间至少 8 h，条件允  许时可适当延长，达到睡眠满足；避免不当使用镇  静剂；加强体育运动，管理体重。
+（三）社会心理支持和认知治疗
+通过社会家庭支持，在患者的学习、工作、生活 等方面给予理解和帮助 。家长、老师应对患儿表示 理解，鼓励其采取积极的、健康的生活态度，学业负 担不宜太重 。允许患者根据日间小睡时间安排学 习与工作任务 。另外，发作性睡病患者发生交通和 职业事故的风险增加，患者在择业方面应避免驾 驶、高空及水下作业等高危性的工作。
+帮助患者认识发作性睡病的症状、掌握症状出
+
+
+现后的应对措施，了解不同药物对疾病的疗效、不 良反应以及预后，了解疾病症状对人际关系、工作 等的影响，从而减少患者由于过度担忧造成的心理 负担。
+此外，具有疾病经验知识的病友提供的同伴互 助支持也有重要帮助，指导患者接纳自己，正确认 识疾病，做好与疾病共存的心理准备，积极面对疾 病，综合治疗、提高生活质量。
+三、药物治疗
+发作性睡病目前尚无确切的病因治疗，目前主 要是对症治疗 。免疫治疗可以作为一种创新治疗 手段，应给予适当关注。
+（一）EDS 的治疗
+治疗 EDS 的首选药物是替洛利生（pitolisant）、 莫 达 非 尼（modafinil）、γ⁃羟 丁 酸 钠（gamma⁃  hydroxybutyrate，sodium oxybate），其他药物包括阿  莫 达 非 尼（armodafinil） 、哌  甲  酯  缓  释  片  （methylphenidate）、索林非妥（solriamfetol）、马吲哚  （mazindol）等 。EDS 治疗推荐药物和意见见表 1。
+1. 替洛利生( Ⅰ 级推荐，A 级证据）：替洛利生 作为首选药物，是新型组胺 H3 受体拮抗剂/反向激 动剂，通过增加中枢神经系统内源性组胺和其他兴 奋性神经递质，如乙酰胆碱、多巴胺、去甲肾上腺素 的释放，达到改善 EDS 和猝倒的作用，并于 2016 年 和 2019 年先后在欧盟和美国被批准用于治疗发作 性睡病，属于非精神管控的、发作性睡病 EDS 的治 疗药物［61］。临床研究结果显示，替洛利生能显著降 低 ESS 评分［62⁃63］。长达 5 年的研究验证，该药物长 期疗效稳定，具有良好的耐受性和安全性［64］。
+替洛利生需要按照向上滴定方案用药，根据个  体患者的反应和耐受性使用最低有效剂量，最大剂  量不得超过 36 mg/d 。替洛利生随早餐单次服用， 吸收良好且迅速，血浆浓度在给药后大约 3 h 达峰， 半衰期为 10~ 12 h，常用剂量为 18~36 mg/d 。常见  的不良反应包括失眠、头痛、恶心、焦虑等 。通过评  估用药的风险与获益，可以考虑推荐替洛利生用于  儿童 EDS 的临床应用［13］。
+2. 莫达非尼( Ⅰ 级推荐，A 级证据）：莫达非尼  可以改善 65%~90% 的 EDS 症状［65］。莫达非尼于  1980 年 首 次 在 法 国 应 用 于 治 疗 发 作 性 睡 病 ， 1998 年通过美国食品与药物管理局（FDA）批准，用  于治疗发作性睡病、轮班工作和 OSA 的思睡症状。 莫达非尼药理作用包括 3 方面［65⁃66］：低亲和性阻断  多巴胺转运体再摄取蛋白，增强中枢⁃皮质⁃边缘系
+
+
+
+中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5                                                                                     ·  413    ·
+
+表 1     日间过度思睡治疗推荐意见
+Table 1    Therapy recommendations for excessive daytime sleepiness
+
+药物	推荐级别	证据级别	精神药品 a	说明
+替洛利生	Ⅰ级推荐	A 级证据	不是	可有效改善成人发作性睡病的 EDS 症状 。常见的不良反应包括：头痛、失眠、腹 部不适等
+莫达非尼	Ⅰ级推荐	A 级证据	一类	可有效改善成人发作性睡病的 EDS 症状 。常见的不良反应包括：头痛、恶心、口 干、紧张、呕吐、血压增加
+γ⁃羟丁酸钠	Ⅰ级推荐	A 级证据	一类	可有效改善成人发作性睡病的 EDS 症状 。常见的不良反应为体重降低等 。值得 注意的是，羟丁酸钠有可能会使睡眠呼吸暂停加重 。应避免 γ⁃羟丁酸钠和酒 精、镇静剂同时服用
+马吲哚	Ⅰ级推荐	A 级证据	一类	可有效改善成人发作性睡病的 EDS 症状，对一线用药产生耐药的患者，也可考虑 应用马吲哚 。常见不良反应包括口干、心悸、厌食、紧张和头痛等
+索林非妥	Ⅰ级推荐	C 级证据	还没有在国内申请上 市 ，尚未进行精神 药品的判定	可有效改善成人发作性睡病的 EDS 症状 。常见的不良反应包括：失眠、头痛、恶 心、食欲降低、烦躁等
+哌甲酯	Ⅱ级推荐	C 级证据	一类	可作为一线治疗药物疗效不佳或因不良反应停药的治疗选择 。常见的不良反应 包括：头痛、情欲波动、食欲不振、心悸、高血压等
+注 ：推 荐 级 别 分 为 Ⅰ 、Ⅱ 、Ⅲ  3 个 级 别 ，证 据 级 别 分 为 A、B、C、D 4 个 级 别［根 据 推 荐 意 见 分 级 的 体 系 ，即 GRADE（Grades of Recommendation，Assessment，Development and Evaluation）分级体系修订］；a来源于国家药品监督管理局（www.nmpa.gov.cn）
+
+
+统多巴胺能神经传递；增强大脑皮质和脑干胆碱能 和谷氨酸能神经兴奋性活动；增加丘脑结节乳头核 的 Hcrt 依赖性组胺能神经传递 。但目前研究没有 发现莫达非尼可以改善猝倒发作。
+莫达非尼口服吸收良好，半衰期为 9~ 14 h，服 药 2~4 d 后药物达到稳态血药浓度［67］。莫达非尼治 疗发作性睡病的初始剂量为每天 100 mg，此后每 5 天 增 加 50~ 100 mg，直 至 达 到 标 准 剂 量 200~ 400 mg［67］。通常建议在早晨顿服 200 mg，如果仍残 留思睡症状，可逐渐增量至 400 mg/d，分 2 次在早晨 和中午服药。
+常见的不良反应有头痛、神经质、胃肠道反应、 鼻炎样症状 、血压升高 、食欲降低 、体重减轻  等［67⁃68］，缓慢增加剂量可减少不良反应 。莫达非尼  可能存在潜在的滥用性和心理依赖性［67］。阿莫达  非尼为莫达非尼的 R 型异构体。
+3.γ⁃羟丁酸钠( Ⅰ级推荐，A 级证据）：产生于中  枢神经系统，是两种羟丁酸受体亚型的神经递质。 大剂量用药对 γ⁃氨基丁酸 B 型受体起作用 。多项  研究结果表明，γ⁃羟丁酸钠能显著改善发作性睡病  1 型 和 2 型 患 者 的 EDS、猝 倒 和 疾 病 严 重 程  度［12，68⁃69］。无论主观评估（ESS）或客观评估（MSLT  或 MWT），γ⁃羟丁酸钠治疗过度思睡的单药疗效优  于单用 400 mg 的莫达非尼。
+γ⁃羟丁酸钠能够通过改善夜间睡眠不安，从而 达到缓解 EDS 的作用 。 由于半衰期短、起效快，需 要晚上睡前服用，并建议夜间加服 1 次 。常见的不 良反应包括恶心、头晕、夜间遗尿、头痛、胸部不适
+和睡眠障碍，睡眠呼吸障碍也有报道 。足量服用会
+
+
+引起快速镇静和记忆缺失，大剂量会引发呼吸抑制 和死亡。
+4. 马吲哚( Ⅰ 级推荐，A 级证据）：为非苯丙胺  类精神振奋剂，主要通过大脑中隔区产生拟交感神  经作用 。 马吲哚最初用于治疗单纯性肥胖 ， 1975 年首次用于治疗发作性睡病，使 85% 的患者  EDS 症状得到改善，并减少 50% 的猝倒发作 。最近  一项针对难治性发作性睡病的研究发现，马吲哚对  莫达非尼、哌甲酯和 γ⁃羟丁酸钠耐药的患者的过度  思睡症状的改善率达 60%，亦可明显缓解猝倒发  作［70］。马吲哚常见不良反应包括口干、心悸、厌食、 紧张和头痛等。
+5. 索林非妥( Ⅰ 级推荐，C 级证据）：是一种具  有双重作用的多巴胺和去甲肾上腺素再摄取抑制  剂（dopamine and norepinephrine reuptake inhibitors， DNRIs），已被证实用于治疗成人与发作性睡病相  关的 EDS，可改善觉醒，推荐每日服药 1 次，清醒状  态下用药 。因为有干扰睡眠的可能，因此避免在入  睡前 9 h 内服药；起始应用剂量为 75 mg，最大剂量  为 150 mg；根据疗效和耐受性，索林非妥增加 1 倍  剂量至少每隔 3 天；常见的不良事件包括头痛、食  欲下降、失眠、恶心和胸部不适，大多数为轻度或中  度严重程度。
+6. 哌甲酯( Ⅱ级推荐，C 级证据）：为苯丙胺类  精神振奋剂，可以改善发作性睡病患者大部分的过  度思睡症状，作用机制类似于安非他明类药物［68］。 哌甲酯主要经肝脏代谢，代谢产物无药理活性 。哌  甲酯缓释片起始每日 1 次 18 mg，早晨口服，最大剂  量不超过每日 54 mg 。常见的不良反应包括胃肠道
+
+
+
+· 414   ·                                                                       中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5
+
+
+反应、头痛、头晕、失眠、无力、高血压、体重减轻等； 罕见的不良反应为精神疾病；青光眼、焦虑症、癫痫  或抽动⁃秽语综合征患者慎用；禁用于高血压 、胸  痛、心律失常、二尖瓣脱垂、心室肥厚、心绞痛和急  性心肌梗死患者［10］。哌甲酯存在潜在的滥用性［68］。
+15%~35% 的患者对精神振奋剂单药治疗效果 不佳，根据药物治疗剂量和时间增加剂量或联合用 药来优化疗效 。替洛利生可联合莫达非尼或其他 EDS 治疗药物的长期疗效和安全性已得到临床研 究验证 。莫达非尼 200~300 mg/d 可加用 5~ 10 mg 的哌甲酯普通片或马吲哚，联合用药必须在临床严 密监测下使用，其安全性尚无临床研究证据。
+（二）猝倒的治疗
+目前推荐的抗猝倒药物主要为替洛利生、羟丁  酸钠和抗抑郁剂（三环类、文拉法辛）。 三环类抗抑  郁剂（tricyclic antidepressants，TCAs）、选择性 5⁃羟  色胺再摄取抑制剂类（selective serotonin reuptake  	inhibitors，SSRIs）通常不具有很强的促醒效应，而  替洛利生及羟丁酸钠可同时改善猝倒和 EDS 。选  择性 5⁃羟色胺与去甲肾上腺素再摄取抑制剂类  （selective   serotonin   and   norepinephrine   reuptake  	inhibitors，SNRIs）和选择性去甲肾上腺素再摄取抑  制 剂（selective  noradrenaline  reuptake  inhibitors， NaRIs）则具有一定的促醒作用 。这些药物也可联  合使用 。猝倒的推荐药物和意见见表 2。
+抗抑郁剂治疗猝倒起效迅速，但停药后易出现  猝倒症状反弹［71］。即便是长期服用缓释型抗抑郁  剂，也可能在中断治疗的次日发生猝倒症状反弹， 症状反弹甚至可持续数天 。抗抑郁剂治疗猝倒时  也可能出现耐药现象，此时增加剂量或更换药物可
+
+
+能会有所帮助。
+1. 替洛利生( Ⅰ 级推荐，A 级证据）：替洛利生 也可显著改善猝倒发作，临床研究结果显示，替洛 利 生 7 周 的 治 疗 可 以 使 每 周 猝 倒 发 作 减 少 75%［62⁃63］。替洛利生不会刺激与药物滥用有关的伏 隔核多巴胺的释放 ，在临床试验中未发现戒断 症状。
+2. 羟丁酸钠( Ⅰ 级推荐，A 级证据）：羟丁酸钠 可降低猝倒发生率的短期和长期疗效在随机对照 试验中得到证实 。羟丁酸钠可降低猝倒发作的效 果与剂量有关，用药 4.5、6.0、7.5、9.0 g/d 的效果不 同 ，9.0 g/d 为最有效剂量 。但部分患者无法耐受 9.0 g/d，临床实践中的普遍剂量为 6.0 g/d 。一般羟 丁酸钠治疗 4 周后改善猝倒发作，需要至少 3 个月 发挥最大疗效［72］。
+3.SNRIs ( Ⅱ级推荐，C 级证据）：SNRIs 主要包  括文拉法辛、去甲基文拉法辛和度洛西汀 。SNRIs  能有效抑制 5⁃羟色胺和去甲肾上腺素的再摄取，对  多巴胺再摄取也有一定抑制作用 。文拉法辛是临  床上治疗猝倒、入睡前幻觉和睡眠瘫痪的治疗药物  之一［68，73］，半衰期为 5 h，每日需 2~3 次服药 。文拉  法辛缓释片适用于治疗日间猝倒发作，起始剂量为  37.5 mg，早饭后顿服 ，缓慢增加至有效剂量（75~  225 mg/d）。 由于文拉法辛具有较强的去甲肾上腺  素能作用，因此可导致血压升高和心率加快 。去甲  基文拉法辛是文拉法辛经肝脏代谢后的产物，其抗  猝倒效果可能优于文拉法辛及其他的抗抑郁药物， 不良反应有恶心、头晕、食欲下降、易怒、失眠、体重  增加、性功能障碍、多汗、腹泻、便秘等［13，68，74］。
+度洛西汀的药理机制与文拉法辛类似［68］，半衰
+
+表2    猝倒治疗的推荐意见
+Table 2    Therapy recommendations for cataplexy
+
+药物	推荐级别	证据级别	精神药品 a	说明
+替洛利生	Ⅰ级推荐	A 级证据	不是	可有效治疗成人发作性睡病的猝倒发作 。其他信息参考表 1
+γ⁃羟丁酸钠	Ⅰ级推荐	A 级证据	一类	可有效治疗成人发作性睡病的猝倒发作 。其他信息参考表 1
+文拉法辛	Ⅱ级推荐	C 级证据	不是	可有效治疗成人发作性睡病的猝倒发作 。常见的不良反应包括：恶心、头晕、性功能障碍 等，也可导致血压升高和心率加快 。有证据显示，停药有可能导致猝倒发作复发
+氯米帕明	Ⅱ级推荐	C 级证据	不是	可用于成人发作性睡病的猝倒发作的治疗 。常见不良反应包括：便秘、视力模糊、口干、心 脏传导阻滞、镇静、直立性低血压及性功能障碍等
+帕罗西汀	Ⅱ级推荐	C 级证据	不是	可用于成人发作性睡病的猝倒发作的治疗 。常见不良反应为食欲减退、尿潴留、便秘等， 需监测血压和心率等
+瑞波西汀	Ⅱ级推荐	C 级证据	不是	可用于成人发作性睡病的猝倒发作的治疗 。常见不良反应为失眠、头晕、便秘、直立性低 血压、性功能障碍和排尿困难等
+马吲哚	Ⅱ级推荐	C 级证据	一类	可用于成人发作性睡病的猝倒发作的治疗，若以上药物不能有效控制猝倒发作，可选择马 吲哚 。其他信息参考表 1
+注 ：推 荐 级 别 分 为 Ⅰ 、Ⅱ 、Ⅲ  3 个 级 别 ，证 据 级 别 分 为 A、B、C、D 4 个 级 别［根 据 推 荐 意 见 分 级 的 体 系 ，即 GRADE（Grades of Recommendation，Assessment，Development and Evaluation）分级体系修订］；a来源于国家药品监督管理局（www.nmpa.gov.cn）
+
+
+
+中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5                                                                                     ·  415    ·
+
+
+期更长（约为 12 h），对肝脏损害小 。有研究报道度 洛西汀治疗发作性睡病猝倒发作有效。度洛西汀的 有效治疗剂量为 20~40 mg/d，最大剂量为 60 mg/d。
+4.TCAs ( Ⅱ级推荐，C 级证据）：TCAs 用于治疗 猝倒发作，对入睡前幻觉和睡眠瘫痪均有效［68］，但 也可能会导致 RBD 的产生 。这类药物包括：氯米 帕明、去甲阿米替林和丙咪嗪 。 由于 TCAs 具有抑 制 5⁃羟色胺再摄取、拮抗胆碱能、拮抗组胺和阻断 α⁃1 肾上腺素能效应，因此存在诸多不良反应，如便 秘、视力模糊、口干、心脏传导阻滞、镇静、直立性低 血压及性功能障碍等。
+5.SSRIs ( Ⅱ级推荐，C 级证据）：帕罗西汀、氟西 汀、舍曲林和西酞普兰对于治疗猝倒发作有一定疗 效，相比 TCAs 和 SNRIs 疗效较弱［68］。帕罗西汀常 见不良反应为恶心、厌食、便秘、头痛、乏力、性功能 障碍等，偶见体位性低血压等。
+6.NaRIs ( Ⅱ级推荐，C 级证据）：瑞波西汀为选 择性去甲肾上腺素再摄取抑制剂［75］，具有很弱的 5⁃羟色胺再摄取抑制作用，主要提高中枢神经系统 去甲肾上腺素活性，可减少猝倒发作的频率及严重 程度 。小样本研究结果显示，经瑞波西汀（最高剂 量 10 mg/d）治疗后，患者 ESS 评分下降 48%，MSLT 的睡眠潜伏期改善 54%，猝倒发作显著减少［75］。瑞 波西汀常见不良反应为失眠、多汗、头晕、便秘、直 立性低血压、性功能障碍和排尿困难等。
+阿托莫西汀( Ⅱ级推荐，C 级证据）可选择性抑 制去甲肾上腺素的突触前转运，增强去甲肾上腺素 功能，半衰期较短（4~5 h）。 有研究报道阿托莫西 汀治疗发作性睡病的猝倒和日间过度睡眠均有 效［76］。阿托莫西汀有效治疗剂量为 10~60 mg/d，最 大剂量为 80 mg/d，常见不良反应为食欲减退、尿潴 留、便秘等，需监测血压和心率等。
+若以上药物不能有效控制猝倒发作，可选择马
+
+
+吲哚。
+抗抑郁剂的停药反应：抗抑郁剂治疗猝倒的过  程中，突然减量或停药会导致猝倒发作时间延长、 频率增加、严重程度增高，甚至出现猝倒持续状态。
+（三）入睡前幻觉和睡眠瘫痪的治疗
+最新研究结果提示，替洛利生( Ⅰ级推荐，A 级 证据）和 γ⁃羟丁酸钠( Ⅰ 级推荐，A 级证据）对入睡 前幻觉和睡眠瘫痪有明确改善作用，推荐用于这两
+种症状的治疗［13，64，68］。入睡前幻觉和睡眠瘫痪与
+REM 睡眠期有关，缩短 REM 睡眠的抗抑郁剂如三 环类抗抑郁剂(Ⅲ级推荐，D 级证据）、SSRIs (Ⅲ级 推荐，D 级证据）及 SNRIs(Ⅲ级推荐，D 级证据）均 可改善入睡前幻觉和睡眠瘫痪［10，68］，考虑到三环类 药物不良反应，推荐使用 SSRIs 和 SNRIs 类药物，如 氟西汀、文拉法辛等 。如合并猝倒，可考虑参考猝 倒的治疗药物 。入睡前幻觉和睡眠瘫痪的治疗推 荐药物和意见见表 3。
+（四）夜间睡眠紊乱的治疗
+1. 夜间睡眠不安的治疗：治疗推荐药物和意见 见表 4。
+γ⁃羟丁酸钠( Ⅰ级推荐，A 级证据）是目前唯一  被证实对于治疗发作性睡病夜间睡眠不安有确切  疗效的药物［13］。大量随机对照研究证实 γ⁃羟丁酸  钠能治疗发作性睡病的所有症状，对于猝倒、EDS、 夜间睡眠不安等均有确切疗效［77⁃78］。γ⁃羟丁酸钠可  能会增加睡眠呼吸障碍或肺换气不足的风险，对可  能存在这些基础疾病的患者，在服用 γ⁃羟丁酸钠前  需进行 nPSG 和血二氧化碳监测 。必要时可先行气  道正压辅助呼吸，改善通气功能后再给予 γ⁃羟丁酸  钠治疗［79］。
+巴氯芬(Ⅲ级推荐，D 级证据）推荐用于成人和 儿童出现的夜间睡眠不安［13］。 巴氯芬可改善慢波 睡眠，减少睡眠片段化，但证据较少，需要进一步研
+
+表3    入睡前幻觉和睡眠瘫痪治疗的推荐意见
+Table 3    Therapy recommendations for hypnagogic hallucinations and sleep paralysis
+
+药物	推荐级别	证据级别	精神药品 a	说明
+替洛利生	Ⅰ级推荐	A 级证据	不是	可明确改善成人发作性睡病的入睡前幻觉和睡眠瘫痪 。其他信息参考表 1
+γ⁃羟丁酸钠	Ⅰ级推荐	A 级证据	一类	可明确改善成人发作性睡病的入睡前幻觉和睡眠瘫痪 。其他信息参考表 1
+文拉法辛	Ⅲ级推荐	D 级证据	不是	可改善入睡前幻觉和睡眠瘫痪 。其他信息参考表 2
+氯米帕明	Ⅲ级推荐	D 级证据	不是	可改善入睡前幻觉和睡眠瘫痪 。其他信息参考表 2
+帕罗西汀	Ⅲ级推荐	D 级证据	不是	可改善入睡前幻觉和睡眠瘫痪 。其他信息参考表 2
+瑞波西汀	Ⅲ级推荐	D 级证据	不是	可改善入睡前幻觉和睡眠瘫痪 。其他信息参考表 2
+注 ：推 荐 级 别 分 为 Ⅰ 、Ⅱ 、Ⅲ  3 个 级 别 ，证 据 级 别 分 为 A、B、C、D 4 个 级 别［根 据 推 荐 意 见 分 级 的 体 系 ，即 GRADE（Grades of Recommendation，Assessment，Development and Evaluation）分级体系修订］；a来源于国家药品监督管理局（www.nmpa.gov.cn）
+
+
+
+· 416   ·                                                                       中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5
+
+表4    睡眠不安治疗的推荐意见
+Table 4    Therapy recommendations for disturbed nocturnal sleep
+
+药物	推荐级别	证据级别	精神药品 a	说明
+γ⁃羟丁酸钠	Ⅰ级推荐	A 级证据	一类	能改善患者夜间睡眠的时间和质量 。使用时，应注意睡眠呼吸障碍 。其他 信息参考表 1
+巴氯芬	Ⅲ级推荐	D 级证据	不是	推荐用于发作性睡病夜间睡眠不安的治疗 。一项儿童临床研究结果显示巴 氯芬可改善夜间睡眠
+苯二氮草类（佐匹克隆、唑 吡坦、扎来普隆）	Ⅲ级推荐	D 级证据	二类	治疗发作性睡病夜间睡眠不安的证据很少 。一项短期的临床研究结果显 示，对比安慰剂，三唑仑可提升患者的睡眠时间和睡眠效率
+注：推荐级别分为 Ⅰ、Ⅱ、Ⅲ 3 个级别，证据级别分为 A、B、C、D 4 个级别［根据推荐意见分级的评估、制订及评价，即 GRADE（Grades of Recommendation，Assessment，Development and Evaluation）分级体系修订］；a来源于国家药品监督管理局（www.nmpa.gov.cn）
+
+
+究评估其在改善睡眠中的作用［80］。
+此外，用于治疗失眠障碍的新型苯二氮草类药  物（唑吡坦、佐匹克隆、右佐匹克隆）以及褪黑素也可  用来治疗发作性睡病患者的夜间睡眠不安［10，68］，考虑  到苯二氮草类药物的不良反应，不建议长期使用［13］。 对于夜间睡眠不安、合并 EDS 和猝倒的成人和儿童  患者，可以首先考虑单用 γ⁃羟丁酸钠，或者联合使用  γ⁃羟丁酸钠和（或）文拉法辛/氯米帕明，以及替洛利  生等一线促醒剂［13］。
+2.OSA 的治疗：推荐对所有超重患者鼓励其减 轻体重，保持戒烟酒等健康的生活方式；无创气道正 压通气是一线治疗方式；应用口腔矫治器和对有手 术指征的患者进行手术治疗，也有一定的效果［79，81］。
+3.RBD 的治疗：不建议应用氯硝安定，可尝试 使用褪黑素或褪黑素受体激动剂。
+如合并猝倒，可考虑参考猝倒的治疗药物，并 推荐对患者进行定期的抑郁/焦虑评估。
+4. 不宁腿综合征的治疗：推荐普拉克索作为不
+
+
+宁腿综合征的首选治疗，其他可选药物有罗匹尼 罗、罗替高汀、加巴喷丁等［82］。值得注意的是，不宁 腿症状可能在应用抗猝倒的抗抑郁药物后加重。
+（五）其他症状的治疗
+1. 抑郁状态和焦虑状态：在认知行为治疗的基  础上，推荐使用镇静作用小的抗抑郁剂如 SSRIs、 SNRIs 治疗。
+2. 精神病样症状：建议精神科排除相关精神疾  病，选择适当的药物干预，注意增加体重的不良反应。
+（六）特定人群的治疗
+1. 儿童发作性睡病的治疗：我国发作性睡病发 病的高峰年龄为 8~ 12 岁［9］，考虑对儿童患者学业 和身心发育的影响，需要积极治疗 。在推荐日间规 律小睡 、认知行为治疗的同时，谨慎用药，在处方 前，临床医师应充分考虑获益和潜在的风险 。具体 用药推荐参考表 1~4，药物的常规用法用量可参 考表 5。
+2. 老年发作性睡病治疗的注意事项：治疗前
+
+表5    发作性睡病治疗药物常规用法用量
+Table 5    The routine usage and dosage for therapy of narcolepsy
+
+药物	常规用法用量
+替洛利生（组胺 H3 受体拮抗剂/反向激动剂）	根据向上滴定方案用药：
+第 1 周：初始剂量为 9 mg/d
+第 2 周：可将剂量增至 18 mg/d 或降至每天 4.5 mg/d
+第 3 周：可将剂量增至 36 mg/d
+莫达非尼	初始剂量 100 mg/d，此后每 5 天增加 50~ 100 mg，直至达到标准剂量 200~400 mg
+γ⁃羟丁酸钠	初始剂量 4.5 g/d，分 2 次在睡前和半夜服用，此后每 3~7 天增加 1.5 g/d，直至 6~9 g/d
+索林非妥（多巴胺和去甲肾上腺素再摄取抑制剂）	初始剂量 75 mg/d，最大剂量 150 mg/d
+哌甲酯缓释片（苯丙胺类精神振奋剂）	初始剂量 18 mg/d，早晨口服，最大剂量 54 mg/d
+马吲哚（非苯丙胺类精神振奋剂）	一般剂量 0.5 mg，1 日 1 次，饭前服用 。最大剂量 1.5 mg/d，分 2~3 次服用
+文拉法辛（选择性 5⁃羟色胺与去甲肾上腺素再摄 取抑制剂）	初始剂量 37.5 mg，早饭后顿服，缓慢增加至有效剂量（75~225 mg/d）
+氯米帕明（三环类抗抑郁剂）	初始剂量 25 mg，1 日 2~3 次，1~2 周内缓慢增加至 150~250 mg/d，最高剂量 300 mg/d
+帕罗西汀（选择性 5⁃羟色胺再摄取抑制剂）	一般剂量 20 mg/d，每周以 10 mg 量递增，最大剂量 50 mg/d
+瑞波西汀（选择性去甲肾上腺素再摄取抑制剂）	一般剂量 8 mg/d，2 次分服，最大剂量 12 mg/d
+巴氯芬（骨骼肌松弛剂）	儿童：每日剂量 0.75~2.00 mg/kg 体重
+成人：初始剂量 5 mg，每日 3 次，每 3 天增服 5 mg，常用剂量 30~75 mg/d，根据病情 100~
+120 mg/d
+
+
+
+
+中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5                                                                                     ·  417    ·
+
+
+后，详细询问其他药物使用情况，以便充分评价发 作性睡病治疗药物的价值 。注意中枢兴奋类药物 可能诱发和加重某些心血管事件 。对有呼吸系统 基础疾病的老年患者，应该注意 γ⁃羟丁酸钠导致的 呼吸抑制作用。
+3. 孕产妇发作性睡病治疗的注意事项：怀孕期 发作性睡病的治疗，一般不主张用药，若发作性睡 病症状所引起的风险高于致畸或流产的风险，推荐 选用替洛利生、γ⁃羟丁酸钠、氟西汀、文拉法辛或氯 米帕明 。 由于分娩过程中存在发生猝倒持续状态 的风险，故推荐选择剖宫产手术［83］。哺乳期一般不 主张用药，对于必须服用药物控制症状的哺乳期患 者，建议停止母乳喂养［83］。
+执笔（按姓氏拼音排序） 唐吉友（山东省千佛山医院）、 王春雪（首都医科大学附属北京天坛医院）、王赞（吉林大学  白求恩第一医院）、吴惠涓（海军军医大学附属长征医院）、 詹淑琴（首都医科大学宣武医院）
+参与讨论人员（按姓氏拼音排序） 蔡晓杰（北京医院）、 陈燕（上海嘉会国际医院）、桂雅星（上海交通大学附属第一  人民医院）、郭春妮（上海交通大学附属第一人民医院）、 韩芳（北京大学人民医院）、胡以达（重庆医科大学附属第一  医院）、黄金莎（华中科技大学同济医学院附属协和医院）、 蒋晓江（重庆西区医院）、乐卫东（四川省医学科学院·四川  省人民医院神经病学研究所）、李宁（首都医科大学宣武医  院）、李震中（河北医科大学第二医院）、林海（陕西省西安市  中医院）、刘春风（苏州大学附属第二医院）、刘昊（南昌大  学第二附属医院）、刘江红（首都医科大学宣武医院）、刘军  （上海交通大学医学院附属瑞金医院）、刘卫平（中南大学湘  雅医院）、卢强（中国医学科学院北京协和医院）、马建芳（上  海交通大学医学院附属瑞金医院）、宿长军（空军军医大学  唐都医院）、汤永红（南华大学附属南华医院）、唐吉友（山东  省千佛山医院）、脱厚珍（首都医科大学附属北京友谊医  院）、王春雪（首都医科大学附属北京天坛医院）、王康（浙江  大学医学院附属第一医院）、王丝丝（暨南大学附属第一医  院）、王晓云（南京大学附属南京市鼓楼医院）、王玉平（首都  医科大学宣武医院）、王赞（吉林大学白求恩第一医院）、吴华  （福建医科大学附属第一医院）、吴惠涓（海军军医大学附属  长征医院）、夏峰（空军军医大学西京医院）、谢兆宏（山东大  学第二医院）、徐江涛（福建医科大学附属厦门弘爱医院）、 薛蓉（天津医科大学总医院）、鄢波（四川大学华西医院）、 于逢春（福建省漳州市正兴医院）、于欢（复旦大学附属华山  医院）、詹淑琴（首都医科大学宣武医院）、张红菊（河南省人  民医院）、张健（福建医科大学附属协和医院）、张钱林（河南  省人民医院）、张燕（北京大学第三医院）、赵忠新（海军军医  大学附属长征医院）、周俊英（四川大学华西医院）、朱春燕  （安徽医科大学第一附属医院）、朱舟（华中科技大学同济医
+
+
+学院附属同济医院）
+利益冲突  所有作者声明不存在利益冲突
+
+参  考  文  献
+
+[1]      Billiard  M,  Cadilhac  J.  Narcolepsy[J].  Rev  Neurol  (Paris), 1985, 141 (8-9): 515-527.
+[2]      American     Academy      of     Sleep     Medicine.      ICSD :     3 International classification of sleep disorders[M]. 3rd ed. Darien  IL:  American  Academy  of  Sleep  Medicine,  2014: 143-161.
+[3]       Dauvilliers    Y,    Arnulf   I,    Mignot    E.    Narcolepsy    with cataplexy[J].   Lancet,   2007,   369   (9560):  499-511.   DOI: 10. 1016/S0140-6736(07)60237-2.
+[4]      Scammell TE. The neurobiology, diagnosis, and treatment of narcolepsy[J]. Ann Neurol, 2003,  53 (2):  154-166. DOI: 10.1002/ana.10444.
+[5]       Morrish  E,  King  MA,  Smith   IE,  et al.   Factors  associated with a delay in the diagnosis of narcolepsy[J]. Sleep Med, 2004, 5 (1): 37-41. DOI: 10.1016/j.sleep.2003.06.002.
+[6]       Han   F,   Lin   L,   Li   J,    et al.    Presentations    of   primary hypersomnia  in  Chinese  children[J].  Sleep,  2011,  34 (5): 627-632. DOI: 10.1093/sleep/34.5.627.
+[7]       Han F, Lin L, Warby SC, et al. Narcolepsy onset is seasonal and   increased  following  the   2009   H1N1  pandemic  in China[J]. Ann  Neurol,  2011,  70(3):  410-417.  DOI:  10.1002/ ana.22587.
+[8]      Thorpy  MJ,  Krieger  AC.  Delayed  diagnosis  of narcolepsy: characterization  and  impact[J].  Sleep  Med,  2014,  15 (5): 502-507. DOI: 10.1016/j.sleep.2014.01.015.
+[9]       中华医学会神经病学分会, 中华医学会神经病学分会睡眠 障碍学组, 解放军医学科学技术委员会神经内科专业委员 会睡眠障碍学组 . 中国发作性睡病诊断与治疗指南[J]. 中 华神经科杂志, 2015, 48 (6): 445-452. DOI: 10.3760/cma.j. issn.1006-7876.2015.06.003.
+Chinese  Society  of  Neurology,  Chinese  Society  of  Sleep Disorder,   Sleep   Disorder   Study   Group   of   Neurological Committee   of   the    PeopleIs   Liberation   Army    Medical Science  and  Technology   Committee.  Chinese  guidelines for   diagnosis   and   treatment   of   narcolepsy[J].    Chin   J Neurol, 2015, 48(6): 445-452. DOI: 10.3760/cma.j.issn.1006- 7876.2015.06.003.
+[10]      Mignot  EJ. A  practical  guide to the therapy of narcolepsy and     hypersomnia      syndromes[J].     Neurotherapeutics, 2012, 9 (4): 739-752. DOI: 10.1007/s13311-012-0150-9.
+[11]       Khatami    R,    Luca    G,     Baumann    CR,    et al.     European Narcolepsy  Network. The  European  Narcolepsy  Network (EU-NN)  database[J].  J  Sleep  Res,  2016,  25 (3):  356-364. DOI: 10.1111/jsr.12374.
+[12]      Wilner A,  Steinman  L, Lavie  P, et al. Narcolepsy-cataplexy in Israeli Jews is associated exclusively with the HLA DR2 haplotype. A study at the serological and genomic level[J]. Hum  Immunol,  1988,  21 (1):  15-22.  DOI:  10.1016/0198- 8859 (88)90077-8.
+[13]       Bassetti   CLA,   Kallweit   U,   Vignatelli   L,   et al.   European guideline  and  expert  statements  on  the  management  of narcolepsy  in  adults  and  children[J].  Eur J  Neurol,  2021, 28 (9): 2815-2830. DOI: 10.1111/ene.14888.
+[14]       Shin    YK,     Yoon     IY,     Han     EK,    et al.     Prevalence     of
+
+
+
+· 418   ·                                                                       中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5
+
+
+narcolepsy‑cataplexy    in     Korean    adolescents[J].     Acta Neurol  Scand,  2008,   117 (4):  273‑278.  DOI:   10.1111/j. 1600‑0404.2007.00930.x.
+[15]      Yeh  JY,  Shyu  YC,  Lee  SY,  et al.  Comorbidity  of  narcolepsy and  psychotic  disorders:  a  nationwide  population‑based study in Taiwan[J].  Front Psychiatry,  2020,  11:  205.  DOI: 10.3389/fpsyt.2020.00205.
+[16]      Wu    H,    Zhuang    J,     Stone    WS,    et al.    Symptoms    and occurrences  of  narcolepsy:  a  retrospective  study  of  162 patients   during   a   10‑year   period   in   eastern   China[J]. Sleep  Med,  2014,  15 (6):  607‑613.  DOI:  10.1016/j. sleep. 2013.12.012.
+[17]       Huang WT, Huang YS, Hsu CY, et al.  Narcolepsy and 2009 H1N1   pandemic   vaccination   in   Taiwan[J].   Sleep   Med, 2020, 66: 276‑281. DOI: 10.1016/j.sleep.2018.10.036.
+[18]      Wijnans  L,  Lecomte  C,  de  Vries  C,  et al.  The  incidence  of narcolepsy   in    Europe:   before,    during,   and    after   the influenza  A   (H1N1)  pdm09  pandemic  and  vaccination campaigns[J]. Vaccine,  2013,  31 (8):  1246‑1254.  DOI:  10. 1016/j.vaccine.2012.12.015.
+[19]      Partinen  M,  Kornum  BR,  Plazzi  G,  et al.  Narcolepsy  as  an autoimmune   disease:   the   role   of  H1N1   infection   and vaccination[J]. Lancet Neurol, 2014, 13 (6): 600‑613. DOI: 10. 1016/S1474‑4422 (14)70075‑4.
+[20]      Han F. Narcolepsy in China: when the east meets the west [J].  Sleep   Med,  2014,   15 (6):   605‑606.  DOI:   10.1016/j. sleep.2014.03.002.
+[21]       Han F, Lin L, Li J, et al. TCRA,  P2RY11, and  CPT1B/CHKB associations  in  Chinese  narcolepsy[J].  Sleep  Med,  2012, 13 (3): 269‑272. DOI: 10.1016/j.sleep.2011.06.020.
+[22]      Wu  MF, Gulyani SA, Yau  E, et al. Locus coeruleus neurons: cessation of activity during cataplexy[J]. Neuro Sci, 1999, 91: 1389‑1399. DOI: 10.1016/s0306‑4522 (98)00600‑9.
+[23]      Mignot EJ. History of narcolepsy at Stanford University[J]. Immunol Res, 2014, 58: 315‑339. DOI: 10.1007/s12026‑014‑ 8513‑4.
+[24]      Tanaka     S,    Honda     Y,    Honda     M,    et al.     Anti‑tribbles pseudokinase      2       (TRIB2)‑immunization      modulates hypocretin/orexin   neuronal    functions[J].    Sleep,   2017, 40 (1). DOI: 10.1093/sleep/zsw036.
+[25]      Bergman  P, Adori  C, Vas  S, et al.  Narcolepsy patients have antibodies that stain distinct cell populations in rat brain and influence sleep patterns[J]. Proc Natl Acad Sci U S A, 2014, 111: E3735‑3744. DOI: 10.1073/pnas.1412189111.
+[26]       Dauvilliers      Y,      Jaussent      I,      Lecendreux      M,      et al. Cerebrospinal    fluid    and    serum    cytokine    profiles    in narcolepsy with  cataplexy:  a  case‑control  study[J].  Brain Behav Immun, 2014, 37: 260‑266. DOI: 10.1016/j.bbi. 2013. 12.019.
+[27]       Latorre   D,   Kallweit   U,   Armentani   E,   et al.   T   cells   in patients     with      narcolepsy     target      self‑antigens     of hypocretin  neurons[J].  Nature,  2018,  562 (7725):  63‑68. DOI: 10.1038/s41586‑018‑0540‑1.
+[28]       Hallmayer J,  Faraco J,  Lin  L,  et al.  Narcolepsy  is  strongly associated  with  the  T‑cell  receptor  alpha  locus[J].  Nat Genet, 2009, 41: 708‑711. DOI: 10.1038/ng.372.
+[29]      Liblau  RS,  Gonzalez‑Dunia  D, Wiendl  H,  et al.  Neurons  as targets   for   T   cells   in   the   nervous   system[J].   Trends Neurosci,  2013,  36:  315‑324.  DOI:  10.1016/j. tins. 2013.01. 008.
+[30]       Dauvilliers   Y,   Abril   B,   Mas   E,   et al.   Normalization   of
+
+
+hypocretin‑ 1        in        narcolepsy        after        intravenous immunoglobulin    treatment[J].     Neurology,     2009,     73: 1333‑1334. DOI: 10. 1212/WNL.0b013e3181bd 1344.
+[31]      De la Herrán‑Arita AK, Kornum BR, Mahlios J, et al. CD4+T cell    autoimmunity    to    hypocretin/orexin     and    cross‑ reactivity   to    a    2009    H1N1   influenza    A    epitope    in narcolepsy[J].  Sci  Transl   Med,  2013,  5 (216):  216ra176. DOI: 10.1126/scitranslmed.3007762.
+[32]      Ambati     A,     Poiret     T,     Svahn      BM,     et al.     Increased β‑haemolytic   group   A   streptococcal   M6   serotype   and streptodornase  B‑specific  cellular  immune  responses  in Swedish narcolepsy cases[J]. J Intern Med, 2015, 278 (3): 264‑276. DOI: 10.1111/joim.12355.
+[33]      Wu MF, John J, Boehmer LN, et al. Activity of dorsal raphe cells across the  sleep‑waking  cycle and  during  cataplexy in narcoleptic dogs[J]. J Physiol, 2004, 554: 202‑215. DOI: 10.1113/jphysiol.2003.052134.
+[34]      Lu J, Sherman D, Devor M, et al. A putative flip‑flop switch for  control of REM  sleep[J].  Nature,  2006, 441:  589‑594. DOI: 10.1038/nature04767.
+[35]      Roth  T,  Dauvilliers Y,  Mignot  E, et al.  Disrupted nighttime sleep   in   narcolepsy[J].   J   Clin   Sleep   Med,   2013,   9 (9): 955‑965. DOI: 10.5664/jcsm.3004.
+[36]       Poryazova    R,    Siccoli     M,    Werth    E,     et al.    Unusually prolonged     rebound     cataplexy     after    withdrawal     of fluoxetine[J].    Neurology,    2005,    65 (6):    967‑968.    DOI: 10.1212/01.wnl.0000175978.61048.62.
+[37]       Plazzi   G,   Pizza   F,   Palaia   V,   et al.   Complex   movement disorders  at  disease  onset  in  childhood  narcolepsy  with cataplexy[J].  Brain,  2011,  134 (12):  3477‑3489.  DOI:  10. 1093/brain/awr244.
+[38]      Pizza F, Antelmi E, Vandi S, et al. The distinguishing motor features of cataplexy: a study from video‑recorded attacks [J]. Sleep, 2018, 41 (5): e262. DOI: 10.1093/sleep/zsy026.
+[39]      Huang B, Xu T, Wang Z, et al. The clinical characteristics of cataplectic   attack   in   narcolepsy  type   1 [J].   Sleep   Med, 2021, 77: 261‑269. DOI: 10.1016/j.sleep.2019.03.015.
+[40]       Huang  B,  Qian  Z,  Wang  Z,  et al.  Fluctuation  of  primary motor  cortex  excitability  during  cataplexy  in  narcolepsy [J].  Ann   Clin  Transl  Neurol,  2019,  6 (2):  210‑221.  DOI: 10.1002/acn3.670.
+[41]      陈国艳, 邹慧莉, 杨婷,等 . 发作性睡病伴快速眼球运动期睡 眠行为异常患者的临床特征及多导睡眠图改变[J]. 中华神 经 科 杂 志 ,  2012,  45 (10):  711‑714.  DOI:  10.3760/cma.j. issn.1006‑7876.2012.10.005.
+Chen  GY,  Zou  HL,  Yang   T,  et al.   Polysomnographic  and clinical  features  in  narcoleptic  patients  with   rapid  eye movement   sleep  behaviour   disorder[J].   Chin  J   Neurol, 2012, 45(10): 711‑714. DOI: 10.3760/cma.j. issn. 1006‑7876. 2012.10.005.
+[42]       Knudsen    S,     Gammeltoft    S,    Jennum     PJ.    Rapid     eye movement   sleep   behaviour   disorder   in   patients   with narcolepsy  is  associated  with  hypocretin‑ 1  deficiency[J]. Brain,  2010,  133  (Pt  2):  568‑579.  DOI:   10.1093/brain/ awp320.
+[43]      Sansa  G,  Iranzo  A,  Santamaria  J.  Obstructive sleep apnea in  narcolepsy[J].   Sleep   Med,   2010,   11 (1):   93‑95.   DOI: 10.1016/j.sleep.2009.02.009.
+[44]      Plazzi  G,  Ferri  R, Antelmi  E,  et al.  Restless legs syndrome is frequent in narcolepsy with cataplexy patients[J]. Sleep, 2010, 33 (5): 689‑694. DOI: 10.1093/sleep/33.5.689.
+
+
+
+中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5                                                                                     ·  419    ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[55]       Han  F,  Lin  L,  Li  J,  et al.   HLA‑DQ  association  and   allele competition  in   Chinese  narcolepsy[J].  Tissue  Antigens, 2012,  80 (4):  328‑335.  DOI:   10.1111/j. 1399‑0039.2012. 01948.x.
+[56]       Bassetti     CLA,     Adamantidis     A,     Burdakov     D,     et al. Narcolepsy‑clinical       spectrum,       aetiopathophysiology, diagnosis and treatment[J]. Nat Rev Neurol, 2019,  15 (9): 519‑539. DOI: 10.1038/s41582‑019‑0226‑9.
+[57]      Han F, Lin L, Schormair B, et al. HLA DQB1*06:02 negative narcolepsy  with  hypocretin/orexin   deficiency[J].   Sleep, 2014, 37 (10): 1601‑1608. DOI: 10.5665/sleep.4066.
+[58]       Han  F,  Faraco J,  Dong XS,  et al.  Genome  wide  analysis  of narcolepsy  in  China  implicates  novel  immune  loci   and reveals  changes  in  association  prior  to  versus  after  the
+2009   H1N1   influenza   pandemic[J].   PLoS   Genet,   2013, 9 (10): e1003880. DOI: 10.1371/journal.pgen.1003880.
+[59]       Ollila HM, Ravel JM, Han F, et al. HLA‑DPB1 and HLA class I  confer  risk  of and  protection  from  narcolepsy[J].  Am  J
+
+
+Hum Genet, 2015, 96 (1): 136‑146. Erratum in: Am J Hum Genet, 2015, 96 (5): 852. DOI: 10.1016/j.ajhg.2014.12.010.
+
+
+
+· 420   ·                                                                       中华神经科杂志 2022 年 5 月第 55 卷第 5 期    Chin J Neurol, May 2022, Vol. 55, No. 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+缩略语	中文全称	缩略语	中文全称	缩略语	中文全称
+ALT	丙氨酸氨基转移酶	GABA	γ⁃氨基丁酸	NE	去甲肾上腺素
+ApoE	载脂蛋白 E	GC	糖皮质激素	NGF	神经生长因子
+AST	天冬氨酸氨基转移酶	HBV	乙型肝炎病毒	NIHSS	美国国立卫生研究院卒中量表
+ATP	三磷酸腺苷	HE	苏木素⁃伊红	PBS	磷酸盐缓冲液
+CMV	巨细胞病毒	HIV	人类免疫缺陷病毒	PET	正电子发射体层摄影
+CNS	中枢神经系统	HLA	人类白细胞抗原	RT⁃PCR	逆转录⁃聚合酶链反应
+CRP	C 反应蛋白	ICU	重症监护病房	SNP	单核苷酸多态性
+CT	电子计算机体层扫描	IL	白细胞介素	SOD	超氧化物歧化酶
+CTA	电子计算机体层扫描血管造影	LDH	乳酸脱氢酶	SPECT	单光子发射计算机体层摄影
+DSA	数字减影血管造影	MMSE	简易精神状态检查量表	TCD	经颅多普勒超声
+DTI	弥散张量成像	MoCA	蒙特利尔认知评估量表	TIA	短暂性脑缺血发作
+DWI	弥散加权成像	MRI	磁共振成像	TNF	肿瘤坏死因子
+ELISA	酶联免疫吸附测定	MRA	磁共振血管造影	TOAST	急性卒中治疗试验
+FLAIR	液体衰减反转恢复序列	MRV	磁共振静脉成像	WHO	世界卫生组织
+中华神经科杂志编辑部

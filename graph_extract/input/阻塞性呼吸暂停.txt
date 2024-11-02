@@ -1,0 +1,527 @@
+
+
+. 1902 .                                                    中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,vol.98 , No.24
+. 标准与规范 .
+成人阻塞性睡眠呼吸暂停多学科诊疗指南
+中国医师协会睡眠医学专业委员会
+
+
+阻塞性睡眠呼吸暂停(OSA)是一种以睡眠打鼾  伴呼吸暂停和日间思睡为主要临床表现的睡眠呼吸  疾病 ,患病率为 2% ~4% [1] 。该病可引起间歇性低  氧、高碳酸血症以及睡眠结构紊乱 ,并可导致高血  压、冠心病、心律失常、脑血管病、认知功能障碍、 2 型糖尿病等多器官多系统损害[2-3] 。研究表明 ,未  经治 疗 的 重 度 OSA 患 者 病 死 率 比 普 通 人 群 高  3.8 倍[4] 。国内 20 家医院的数据证实 ,我国 OSA患  者高血压患病率为 49. 3% ,而顽固性高血压患者中  OSA患者占 83% ,治疗OSA对这部分患者血压的下  降效果肯定 [5] 。此外 ,OSA人群发生卒中的概率是  对照组的 4.33 倍 ,病死率是对照组的 1.98 倍 [6] 。 OSA对身体多个系统都会造成损害 ,是一种名副其  实的全身性疾病 [7] 。因此 ,对于 OSA对身体危害的  广泛性和严重性 , 医师、患者及全社会都应予以  重视。
+近年来 ,相关学会发布了一系列有关 OSA的诊 疗指南 ,但这些指南在临床应用过程中尚存在以下 问题:(1)国际指南纳入的证据绝大多数来源于欧 美人群 ,在指导我国临床实践时存在一定局限性 ; (2)睡眠监测和气道评估等技术的应用提高了对 OSA及其合并症的认识 ,需进一步验证其是否适用 于国人的临床实践;(3) 目前不同学科诊治技术的 涌现和国际新标准的出台 ,强调了 OSA多病因诊疗 的重要性 ,但国内尚缺乏基于多学科的 OSA病因学 评估及诊疗路径;(4)国内外尚缺乏针对 OSA伴发 其他睡眠障碍的诊疗指南。
+为更好地指导我国医师的睡眠医学临床实践 , 中国医师协会睡眠医学专业委员会组织专家基于当 前循证医学证据 ,结合国内临床实践 ,广泛征求涵盖 呼吸内科、心血管内科、神经内科、精神科、耳鼻咽喉 头颈外科、口腔科和减重代谢外科等专业组专家的 意见并反复讨论 ,制订本指南。
+
+DOI:10. 3760/cma.j. issn. 0376-2491. 2018. 24. 003
+通信作者:叶京英 , 102218  清华大学附属北京清华长庚医院 清华大学临床医学院 ,Email:yejingying@yeah. net
+
+
+第一部分   概   述
+一、指南的编写方法
+本指南成立了多个工作组 , 涵盖上述各学科。 其中 ,多学科专家工作组具体分为:诊断及鉴别诊断  组、内科合并症诊疗组、无创通气治疗组、口腔科治  疗组、耳鼻咽喉科治疗组、减重代谢外科治疗组、合  并其他睡眠障碍疾病治疗组。
+依据 2015 年《世界卫生组织指南制订手册》[8]  及2016 年《中华医学杂志》发表的《 制订/修订 < 临 床诊疗指南 > 的基本方法及程序》[9]  ,本指南工作 组对相关性较高的指南和共识进行评价 , 并使用 GRADE方 法 进 行 证 据 质 量 评 价 和 推 荐 意 见 分 级(表1 ,2) [10]  ,通 过 筛 选 最 终 纳 入 指 南 和 共 识 22 部[2 ,11-31]  ,其中英文 12 部、中文 10 部 。指南相关 的一些重要领域可能并不能在既往文献中找到理想 依据 ,则基于临床经验判断的专家共识。
+表 1    GRADE推荐强度分级与定义[10]
+
+推荐强度	说明	本指南   表达方法	推荐强度 表示方法
+强推荐使用	干预措施明显利大于弊	推荐	1
+弱推荐使用	干预措施可能利大于弊	建议	2
+弱推荐反对使用	干预措施可能弊大于利或 利弊关系不明确	不建议	2
+强推荐反对使用	干预措施明显弊大于利	不推荐	1
+
+表 2    GRADE证据质量分级与定义[10]
+
+质量等级	定义
+高(A)	非常确信真实效应值接近效应估计值
+中(B)	对效应估计值有中等程度信心:真实效应值有可能 接近效应估计值 ,但仍存在两者大不相同的可能 性
+低(C)	对效应估计值的确信程度有限:真实效应值可能与 效应估计值大不相同
+极低(D)	对效应估计值几乎没有信心:真实效应值很可能与 效应估计值大不相同
+
+通过系统检索 ,本指南需最终纳入 4 个主要临 床问题:(1)适合国人的 OSA疾病诊断与鉴别诊断 的方法及标准;(2)OSA病因学及合并症评估方法
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,vol.98 , No.24                                                      . 1903 .
+
+
+的选择;(3) OSA伴发其他睡眠障碍的处理问题 ;
+(4)OSA多学科联合诊疗的流程及路径。
+二、病因及危险因素
+1.年龄和性别:成人 OSA患病率随年龄增长而 增加 ;男女患病率约2:1 ,但女性绝经后患病率明显 增加[32] 。
+2.肥胖:肥胖是 OSA的重要原因 ,且 OSA又可 加重肥胖[33] 。
+3.家族史: OSA具有家族聚集性 ,有家族史者 患病危险性增加 2 ~4 倍[34] 。遗传倾向性可表现在 颌面结构、肥胖、呼吸中枢敏感性等方面。
+4.上气道解剖异常:包括鼻中隔偏曲、鼻甲肥  大、鼻息肉、鼻部肿瘤等[32] ; Ⅱ度以上扁桃体肥大、 腺样体肥大、软腭松弛、悬雍垂过长或过粗、咽腔狭  窄、咽周围组织肿瘤、咽腔黏膜肥厚、舌体肥大或巨  舌、舌根后坠 ;颅颌面畸形 ,如狭颅症、小颌畸形 ;感  染、创伤或手术等各种原因造成的颌骨缺损和瘢痕  挛缩闭锁等[34] 。
+5.饮酒或镇静催眠药物:二者均可使呼吸中枢 对缺氧及高 CO2  敏感性下降 ,上气道扩张肌肉的张 力下降 ,进而使上气道更易塌陷而发生呼吸暂停 ,还 能抑制中枢唤醒机制 ,延长呼吸暂停时间[35] 。
+6.吸烟: 可 通 过 引 起 上 气 道 的 慢 性 炎 症 等  因素及睡眠期一过性戒断效应引发或加重 OSA 病情[36] 。
+7.其他相关疾病:脑血管疾病、充血性心衰、甲 状腺功能低下、肢端肥大症、声带麻痹、脑肿瘤、神经 肌肉疾病、咽喉反流、胃食管反流、压迫大气道的上 纵隔肿物等[16] 。
+三、临床表现
+(一)典型症状
+睡眠打鼾 ,伴有鼾声间歇及呼吸暂停、睡眠质量 下降、日间困倦或思睡、夜尿增多等 ;可出现神经精 神症状包括注意力不集中、记忆力下降、易怒、焦虑 或抑郁等。
+(二)多系统表现
+1.心血管系统:合并高血压及顽固性高血压 ,血 压的昼夜节律异常 ,表现为非构型甚至反构型 ;冠心 病 ,夜间心绞痛症状 ,难以缓解的严重的心肌缺血 ; 心律失常 ,特别是缓慢性心律失常及快-慢交替性心 律失常 ,如 Ⅱ ~ Ⅲ度房室传导阻滞、严重的窦性心动 过缓、窦性停搏、心房纤颤等 ;难治性心力衰竭 ,特别 是同时出现陈-施呼吸 。难以解释和治疗效果不佳 的扩张性心肌病[11 ,37] 。
+
+
+2.内分泌系统:可导致胰岛素抵抗、糖代谢异 常 ,甚至引发糖尿病[38] ;血脂代谢异常[39] ;代谢综 合征[40] 。
+3.呼吸系统:严重患者可出现呼吸衰竭 ,在一些 诱发因素作用下还可发生急性呼吸衰竭或慢性呼吸 衰竭急性加重 。加重支气管哮喘( 简称哮喘) 或哮 喘样症状 ,伴胃食管反流患者会表现为稳固性哮喘 ; OSA与慢性阻塞性肺疾病( 简称慢阻肺) 重叠综合 征 ,病情更重 ,死亡率更高 ;还会引起难治性慢性咳 嗽、肺动脉高压、肺栓塞、肺间质疾病[41] 。
+4.泌尿 生 殖 系 统: 发 生 遗 尿 和 夜 尿 次 数 增 多 [42] ;可出现性功能障碍[43] ;妊娠期合并睡眠呼吸 暂停会发生妊娠高血压、先兆子痫和子痫并危害胎 儿的生长和出生后发育 ,需要引起临床关注 ,避免对 母婴的双重危害[44] ; 多囊卵巢综合征患者可并发 OSA[45] 。
+5.消化系统:可并发胃食管反流[46] ;低氧性肝 功能损害及非酒精性脂肪性肝病等[47] 。
+6.神经与精神系统: 认知功能损害及情绪障 碍 [48] ;可并发脑血管疾病 [49] ;并发或加重癫痫[25] 。
+7.血液系统:继发性红细胞增多、血细胞比容上  升、血液黏滞度增高、睡眠期血小板聚集性增加[50] 。
+8.眼部:并发眼部疾病包括眼睑松弛综合征 ; 非动脉炎性前部缺血性视神经病变 ;青光眼、视盘水 肿等[51] 。
+9.耳鼻咽喉:可引起听力下降[52] ;鼻炎、咽炎与 OSA可能互为因果[53] 。
+10.口腔颅颌面:成人 OSA较常见长面、下颌角 增大、下颌后缩、舌骨后下位、舌体和软腭长且肥 厚等[54] 。
+四、体格检查及评估
+常规体格检查包括:身高、体质量和计算体质指 数(BMI),血压、心率 ; 其他还需检查颌面形态、鼻 腔、口腔、咽喉部及心肺检查等。
+【推荐意见】(1)从鼻腔到下咽任何部位的相对 狭窄都可能导致 OSA的发生 ,需要对颌面、鼻腔、咽 腔阻塞与狭窄程度进行评价【1B】; (2) 对肥胖 (BMI≥25 kg/m2 )患者除颈围外 ,建议补充测量胸 围、腹围、臀围、肘围【2C】。
+五、辅助检查
+(一)睡眠监测
+1.多导睡眠监测(PSG):值守整夜 PSG是确诊 OSA及其严重程度分级的金标准 , 睡眠分期及睡眠 相关事件的判读推荐采用AASM判读手册[55] 。判
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+. 1904 .                                                    中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,vol.98 , No.24
+
+
+读 PSG结果时需充分考虑患者的 个体差异 , 结合年龄、睡眠习惯及 基础疾病等情况进行个体化诊断 和分析 o 若患者病情较重和( 或) 未能进行整夜 PSG,则可通过分夜 监测的 PSG结果诊断 OSAo  分夜 监测诊断要求 PSG睡眠时间≥2 h , 且呼吸暂停低通气指数(AHI) ≥ 40 次/h ; 如 果 PSG 睡 眠 时 间  <  2 h ,但呼吸事件次数达到 2 h 睡眠 的要求(80 次),也可诊断 OSAo
+2.睡 眠 中 心 外 睡 眠 监 测 (OCST):也称家庭睡眠监测 ,适用 于以下情况:(1)因行动不便或出 于安全考虑不适合进行 PSG监测 ; (2) 无实施 PSG监测的条件 , 临床 情况紧急;(3)高度怀疑 OSA,无复 杂共患疾病;(4) 不采用 PSG,不影 响并存睡眠障碍的诊断 o  OCST通 常不用于具有严重心肺疾病、神经 肌肉疾病、使用阿片类药物或怀疑
+
+
+
+注:OSA:阻塞性睡眠呼吸暂停;PSG:多导睡眠监测;OCST:睡眠中心外睡眠监测 图 1    OSA的临床评估流程[21]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,vol.98 , No.24                                                      . 1905 .
+
+
+现以下至少 1 项:(1) 患者主诉困倦、非恢复性睡  眠、乏力或失眠;(2)因憋气或喘息从睡眠中醒来 ;  (3) 同寝室或其他目击者报告患者在睡眠期间存在  习惯性打鼾、呼吸中断或二者皆有;(4)已确诊高血  压、心境障碍、认知功能障碍、冠心病、脑血管疾病、 充血性心力衰竭、心房颤动或 2 型糖尿病 。B:PSG 或者 OCST证实监测期间发生呼吸事件 ≥5 次/h ,  包括阻塞性呼吸暂停、混合性呼吸暂停、低通气和呼  吸努力相关性觉醒(RERAs)。 C:PSG或者 OCST证  实监测期间发生呼吸事件≥15 次/h ,包括阻塞性呼  吸暂停、混合性呼吸暂停、低通气和 RERAs。
+以上 呼 吸 事 件 的 判 读 参 照 AASM 手 册 [55] ; OCST通常不监测脑电图 , 而睡眠事件主要根据脑 电图判断 。因此 ,与 PSG相比 ,OCST会低估每小时 呼吸事件的次数且无法判断 RERAs和依据觉醒判 读的低通气事件 ;呼吸事件指数所指的呼吸事件频 率基于监测时间 ,而非基于总睡眠时间。
+2.分型和分度:依据 AHI,参考夜间最低动脉血 氧饱和度(SaO2 )分为轻、中、重度(表3) [16] 。
+表 3    成人 OSA病情程度判断依据[16]
+
+指标	程度		指标	程度
+AHI(次/h)a
+5 ~15 5 ~15 >30	轻度 中度 重度		最低 SaO2 (%)b
+85 ~90
+80 ~<85 <80	轻度 中度 重度
+注 : OSA: 阻塞性睡眠呼吸暂停 ; AHI:呼吸暂停低通气指数 ; SaO2 :动脉血氧饱和度 ;a :主要依据 ;b :辅助依据
+【推荐意见】(1)推荐采用 ESS 辅助评估日间思 睡程度【1C】。 (2) 病因及并发症的评估应包括: ①是否存在相关疾病 ,如甲状腺功能减退、肢端肥大 症、耳鼻喉科和口腔科疾病等【1B】;②有无并发症 和合并症 ,如代谢综合征、糖尿病、高血压、肺动脉高 压、肺心病、心律失常、脑血管意外、红细胞增多症等 【1B】;③有无合并其他睡眠疾病【1C】。
+七、鉴别诊断
+1.单纯鼾症:夜间有不同程度打鼾 ,但无日间症 状 ,PSG提示 AHI<5 次/h ; 由于 OCST不能准确判 读伴觉醒的低通气或 RERAs,不建议应用 OCST鉴 别单纯鼾症。
+2.中枢性睡眠呼吸暂停(CSA):患者 PSG或 OCST以中枢性事件为主 ,诊断标准为中枢性呼吸 暂停低通气指数≥5 次/h ,其中中枢性呼吸事件占 所有呼吸事件的 50% 以上。
+
+
+3.肥胖低通气综合征:肥胖(BMI>30 kg/m2 ) 且清醒时动脉血 CO2   分压( PaCO2  )  >45  mmHg ( 1 mmHg=0. 133 kPa),可出现明显日间思睡 ,而打 鼾可能不作为基本特征 ,此类患者多可合并 OSA。
+4.睡眠相关肺泡低通气:患者 PSG或 OCST显 示反复 SaO2  下降 ,但无明确气流阻塞 ,证实存在夜 间高碳酸血症(PaCO2  >55 mmHg持续 10 min 以上 , 或较清醒平卧位上升10 mmHg且 >50 mmHg) 可诊 断 。需要注意 ,如果睡眠期存在明确呼吸暂停或低 通气 ,则应诊断 OSA或在 OSA基础上增加睡眠相 关肺泡低通气的诊断。
+5.发作性睡病:主要临床表现为难以克制的日 间思睡、发作性猝倒、睡眠瘫痪和睡眠幻觉 ,多在青 少年起病 , 主要诊断依据为 MSLT显示快速眼动 (REM) 睡眠期起始的异常睡眠和平均入睡潜伏 期 <8 min 。鉴别时应注意询问发病年龄、主要症状 及 PSG监测结果 , 同时应注意该病与 OSA合并的可 能性 ,避免漏诊。
+6.不宁腿综合征和周期性腿动:不宁腿综合征  患者有日间困倦、晚间难以控制的腿动 ,常伴异样不  适感 ,安静或卧位时严重 ,活动时缓解 ,夜间入睡前  加重 。周期性腿动在入睡后出现 ,PSG监测具有典  型特征 ,但应与睡眠呼吸事件相关的腿动鉴别 。后  者经持续气道正压通气(CPAP) 治疗后常可消失。 通过详细向患者及同室睡眠者询问患者睡眠病史 ,  结合查体和 PSG监测结果可鉴别。
+7.惊恐发作:夜间惊恐发作是睡眠中的喘气与 窒息的症状 ,与 OSA憋气症状类似 。然而 ,夜间惊 恐发作患者夜间 PSG监测不显示 OSA特征性的低 通气或低 SaO2  模式 。惊恐发作的频率较低 ,伴有强 烈的自主觉醒 ,无过度困倦 , OSA患者通常无惊恐 发作病史。
+8.药物或其他物质所致的失眠或思睡:物质使 用和物质戒断( 包括药物) 可产生失眠或思睡 。详 细的病史通常足以确认相关的物质/药物 ,随诊可显 示物质/药物停用后睡眠紊乱的改善 。使用药物的 患者 , 如果有与 OSA一致的症状和体征 , 应给予 诊断。
+第二部分 多学科治疗细则
+一、一般治疗
+对 OSA患者均应进行多方面的指导 。根据患 者病情特点 , 提倡实施多学科个体化联合治疗 (图2)。
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+. 1906 .                                                    中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,Vol.98 , No.24
+
+
+【推荐意见】(1) 推荐对所有超重患者(BMI≥ 23 kg/m2 )应鼓励其减重 ;肥胖患者根据不同病情 , 减重方法可分为非手术治疗和手术治疗【1B】;(2) 推荐 OSA患者戒烟【1B】、戒酒、慎用镇静催眠药物 及其他可引起或加重 OSA的药物【2D】;(3) 建议体 位治疗 ,包括侧卧位睡眠、适当抬高床头【2C】;(4) 建议避免日间过度劳累 ,避免睡眠剥夺【2B】。
+二、无创气道正压通气(NPPV)治疗
+NPPV作为一线治疗手段 ,有助于消除睡眠期 低氧 ,纠正睡眠结构紊乱 , 提高睡眠质量和生活质 量 ,降低相关并发症发生率和病死率 。建议在专业 医务人员的指导下实施 ,依照患者具体情况选择适 合的 NPPV工作模式 。建议首次佩戴前进行压力滴 定 ,确定能够消除所有睡眠时相及不同体位发生的 呼吸事件、鼾声以及恢复正常睡眠等的最低治疗压 力[17-18] 。
+应根据规范检查和诊断标准明确诊断后 ,进行 压力滴定和 NPPV工作模式选择 。压力滴定完成 后 ,根据医师处方配置无创呼吸机 。处方内容应包 括:呼吸机种类、NPPV压力水平、是否需要备用频 率、备用频率具体数值及适合的连接面罩建议等 ,是 否需要氧疗及流量等 。做好治疗后随访、管理及提 高依从性等工作[18] 。
+1.适应证:(1) 中、重度 OSA(AHI≥ 15 次/h); (2)轻度 OSA(5 次/h≤AHI<15 次/h) 但症状明显 (如日间思睡、认知障碍及抑郁等),合并或并发心 脑血管疾病、糖尿病等;(3) OSA患者围手术期治 疗;(4)经过手术或其他治疗后仍存在的 OSA;(5) OSA与慢阻肺重叠综合征。
+2.相对禁忌证:(1)胸部 X线片或 CT发现肺大 泡;(2)气胸或纵隔气肿;(3) 血压明显降低( <90/ 60 mmHg);(4)急性心肌梗死患者血流动力学指标 不稳定者;(5)脑脊液漏、颅脑外伤或颅内积气;(6)  急性中耳炎、鼻炎、鼻窦炎感染未控制者;(7) 青光 眼等。
+【推 荐 意 见】 ( 1 ) NPPV 工 作 模 式 的 选 择:  ①CPAP为一线治疗手段 ,包括合并心功能不全者  【1A】;②自动持续气道正压通气(APAP)适用于  CPAP不耐受者、饮酒后 OSA、体位及睡眠时相相关  OSA、体质量增减显著的患者等【1B】;③双水平气  道正压通气(BiPAP) 适用于 CPAP治疗压力超过  15 cmH2 O(1 cmH2 O =0.098 kPa)、不能耐受 CPAP 者以及合并 CSA或肺泡低通气疾病 ,如慢阻肺、神  经肌肉疾病及肥胖低通气综合征【1B】。 (2)压力滴
+
+
+定:①PSG下整夜人工压力滴定为金标准 , 可选用 CPAP或 BiPAP进行【1A】;②APAP和人工 CPAP滴 定对于无合并症的中重度 OSA 中的应用价值相同 【1A】。
+【推荐意见说明】分夜压力滴定实施的前提条 件 [17-18]  :(1)PSG监测至少2 h ,且 AHI≥40 次/h ,此 时即可行 PSG下的 CPAP滴定;(2)滴定时间 >3 h ; (3)滴定期间 PSG证实 CPAP滴定消除或几乎消除 睡眠中的呼吸事件 ,包括仰卧位及 REM 睡眠期的呼 吸事件 。若 PSG符合标准(1),但不能满足以上第 (2)、(3) 标准 ,应再次行整夜压力滴定 。对于存在 明显睡眠呼吸障碍临床表现急需采取治疗者 , 以及 前半夜监测显示呼吸暂停事件持续时间延长 ,引发 严重低氧 ,可能发生意外者 ,分夜方案为有效的应急 措施之一 ;不推荐直接采用分夜压力滴定结果指导 中重度患者的治疗。
+APAP压力滴定 ,滴定当晚对患者进行治疗相  关知识教育并选择合适的鼻面罩连接 APAP后让患  者入睡 , 第 2 天根据 自 动分析报告确定治疗压  力[17-18] 。实验室外或居家 APAP也可用于压力滴定  和治疗[59] 。APAP不推荐用于 OSA伴血流动力学  不稳定、CSA或夜间低通气等疾病的治疗[25]  ,对该  类患者应进行 PSG下整夜人工压力滴定 。另外 ,若  滴定压力已达到 15 cmH2 O仍不能消除阻塞性呼吸  事件 ,应考虑更换为 BiPAP模式 ,但为获取 BiPAP 理想压力值 ,需另一夜压力滴定。
+三、氧疗
+大多数 OSA患者在接受 CPAP治疗时无需辅 助氧疗。
+【推荐意见】(1)CPAP治疗消除所有呼吸事件 后 ,若 SaO2  仍有较大波动 ,尤其是在 REM 睡眠期 SaO2 ≤88% , 可辅以氧疗【2B】;(2) 对于合并慢阻 肺、心力衰竭或神经肌肉疾患的 OSA患者 ,首先需 给予有效的治疗模式如 BiPAP,解除患者上气道塌 陷 ,消除阻塞性与中枢性呼吸事件及肺泡低通气 ,可 在此基础上适当辅以氧疗【2B】。
+【推荐意见说明】OSA患者夜间氧疗需在 NPPV 支持 下 进 行 , 氧 疗 期 间 需 警 惕 肺 泡 低 通 气 的  发生 [18] 。
+四、口腔矫治器治疗
+口腔矫治器对上气道的扩张不只局限于某一区 段 ,而是对阻塞好发处从腭咽到舌咽都有明显扩张 , 特别是下颌前移类型的矫治器适宜多位点阻塞的 OSA患者 。可单独使用亦可配合其他多种治疗手
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,Vol.98 , No.24                                                      .  1907 .
+
+
+段使用 , 具 有 疗 效 稳 定、可 逆 舒 适、携 带 方 便 等 优点[60] o
+口腔矫治器治疗 OSA的主要机制是产生形态 学改变 ,所以下颌定位成为矫治技术的核心[61] o 下 颌定位受到患者颅面类型、上气道阻塞点位置、下颌 前伸度等许多因素影响 , 目前系经验性操作 o
+【推荐意见】(1)口腔矫治器可作为单纯鼾症和 轻、中度患者的一线治疗方法【1A】, 可与手术或 NPPV联合应用治疗重度 OSA【1A】;(2) 口腔矫治 器治疗时 ,需根据患者具体情况选择或定制【2C】; 	(3)建议口腔矫治器治疗前后均进行 PSG 监测 【2C】;(4)建议头颅定位侧位片和曲面断层片为常 规影像学检查【2B】;(5) 口腔矫治器为长期医疗过 程 ,推荐制定长期复诊方案【1B】o
+【推荐意见说明】与 CPAP相比 , 口腔矫治器的 疗效在轻度患者差异无统计学意义 ;重度患者口腔 矫治器的疗效不如 CPAP[29] o  口腔矫治器种类很 多 ,个性化制作一般优于半预成产品 ,可调式优于固 定式 o 下颌前伸类口腔矫治器一般需要至少 10 颗 固位基牙 ,严重牙周病患者、严重牙列缺失患者不适 宜 ; 由于矫治器产生下颌移位 ,重度颞下颌关节紊乱 患者、安氏Ⅲ类患者不适宜 ;长期戴用可能导致轻微 咬合改变 ,切牙对刃关系的患者不适宜[60] o 舌保持 器类口腔矫治器则可应用于少牙或无牙患者[29 ,62] o
+五、外科治疗
+(一)鼻腔手术
+若存在因鼻腔解剖结构异常和鼻腔炎性疾病引 起的通气障碍 ,可依据病变部位行不同鼻腔手术治 疗 ,包括:鼻中隔偏曲矫正、鼻息肉切除、鼻腔扩容 术等 o
+【推荐意见】(1)单独鼻腔手术并不能有效降低 AHI,故不推荐作为 OSA的一线治疗【1B】;(2)鼻腔 手术有助于降低鼻腔阻力从而提高 CPAP治疗依从 性 ,但需注意保证鼻腔支架的稳定性 ,推荐术后再次 行压力滴定调整相关参数后继续 CPAP治疗【1C】o
+(二)扁桃体及腺样体切除术
+对于扁桃体Ⅱ度及以上肥大的成人 OSA患者 , 单纯扁桃体切除术可显著改善患者的客观及主观指 标 ,短期(1 ~6 个月) 手术有效率可达 85% ,短期手 术治愈率可达 57% [63] o
+【推荐意见】(1) 推荐术前 AHI<30 次/h 的扁 桃体肥大患者行单纯扁桃体切除术【1B】;(2) 建议 对患者进行鼻咽喉镜检查 ,发现腺样体明显肥大时 , 建议同期行腺样体切除手术【2C】o
+
+
+【推荐意见说明】肥胖、3 型及 4 型舌位可能会 降低单纯扁桃体切除治疗成人 OSA的手术成功率 o
+(三)悬雍垂腭咽成形术(UPPP)
+UPPP是目前应用最广泛的治疗成人 OSA的术  式 ,适合于阻塞平面在口咽部 ,黏膜组织肥厚致咽腔  狭小 ,悬雍垂肥大或过长 ,软腭过低过长 ,扁桃体肥  大或腭部狭窄为主者[2] o  长期手术有效率( >6 个  月)为 40% ~50% [30] o  不推荐瘢痕体质、未成年患  者行该手术治疗 ,对于语音要求高的患者 ,如演员、 歌唱家等应谨慎行该手术 o
+目前对于 UPPP疗效的预测方法很多 , 其中 Friedman 分型系统对 UPPP手术疗效的预测最为经 典[64] o 该系统主要基于扁桃体大小、舌位及 BMI, 分级不同的患者手术疗效存在明显差异 o  根据 Friedman 分型系统 ,OSA患者扁桃体及舌位的分级 标准沿用至今 o
+扁桃体分度:0 度:扁桃体在扁桃体窝内 ;1 度 : 超出扁桃体窝 , 占据口咽宽度 <25% ;2 度 : 占据 口 咽宽度的 25%  ~  <50% ; 3  度 : 占据 口咽宽度的 50% ~<75% ;4 度:占据口咽宽度≥75% o
+舌位分度: 在患者尽量张 口、不伸舌的情况 下判定:1 度:可清楚观察到完整的悬雍垂及扁桃 体 ;2 度:可看到悬雍垂 , 但观察不到扁桃体;3 度 : 可看到软腭 , 但观察不到悬雍垂 ; 4 度: 仅可看到 硬腭 o
+近年来随着对 OSA患者气道形态的认识加深 , 我国学者以扁桃体分度、SaO2  <90%时间占总睡眠 时间的比例以及舌骨下缘距下颌骨下缘的垂直距离 3 项指标建立了基于国人数据的“TCM 手术疗效评 分预测系统”( 表 4) [65]  ,应用该评分预测系统所得 TCM 总分 ,以 14、17、22 为临界分层 ,其手术有效率 分别为 100% 、76. 3% 、48.  1%和 10. 0% o  TCM手术 疗效评分预测系统很好地继承了 Friedman 分型系 统中扁桃体的分度方法 ,并且可获得更准确细化的 预测效果 o
+表 4    TCM手术疗效评分预测系统[65]
+
+预测因子	系数	对应分值(分)
+		1	2	3	4
+扁桃体分度	2.7	4	3	2	1
+CT90(%)	2. 2	<10	10 ~20	20 ~40	≥40
+MH(mm)	1. 6	<10	10 ~15	15 ~20	≥20
+注:TCM:以扁桃体分度、动脉血氧饱和度 <90%时间占总睡眠 时间的比例(CT90)、舌骨下缘距下颌骨下缘的垂直距离(MH)3 项 指标建立的基于国人数据的手术疗效评分预测系统;TCM总分 =扁 桃体分度得分 ×2.7  +CT90 得分 ×2.2  +MH得分 ×1. 6
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+. 1908 .                                                    中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,vol.98 , No.24
+
+
+【推荐意见】(1)推荐用于治疗非严重肥胖的中 度或轻度 OSA患者以及扁桃体Ⅱ度及以上肥大的 重度 OSA患者【1B】;(2)推荐同时进行双侧扁桃体 切除术【1B】;(3) 建议术前系统评估患者上气道形 态 ,可采用 Friedman 分型系统以及 TCM 手术疗效 评分预测系统预估手术疗效【2B】;(4) 推荐制定长 期复诊方案 ,术后跟踪随访 PSG【1C】o
+(四)软腭植入术
+软腭植入术可能对轻中度 OSA患者有效[30] o
+【推荐意见】可用于治疗 BMI<32 kg/m2  且没 有任何其他解剖部位狭窄及 OSA手术治疗史的轻 中度患者【2C】o
+【推荐意见说明】该项治疗目前在国内尚未广 泛开展 ,远期疗效有待进一步观察 o
+(五)舌根及舌骨手术
+舌根手术主要包括舌根射频消融术及舌根部分 切除术 o 相关研究结果提示 ,对存在舌根平面狭窄 阻塞的患者 ,舌根射频消融术疗效往往不如舌根悬 吊术有效 ,但这二者差异并不显著 o 舌根部分切除 术的手术疗效较舌根射频消融术可能更高 o 单纯舌 部分切除术的手术成功率约 60. 0% ,手术治愈率约 22. 6% [30] o
+舌骨悬吊或舌悬吊术较少单独应用于 OSA治 疗 o 舌骨悬吊术作为舌根平面阻塞 OSA患者的外 科治疗手段之一 , 可作为多层面手术的一部分用于 治疗轻度至中度 OSAo
+【推荐意见】(1)舌根及舌骨手术推荐用于治疗 轻度至中度存在舌根平面狭窄的 OSA患者【1B】o (2)舌根及舌骨手术与其他外科手术联合进行 , 即 多层面手术 ,可提高手术疗效【2B】o
+(六)舌下神经刺激治疗
+舌下神经刺激治疗是通过固定于舌下神经远端 的电极 ,在吸气开始前放电刺激频舌肌使舌体前伸 以扩大舌后气道的治疗方式 o
+【推荐意见】推荐用于治疗中度至重度 OSA患 者 ,或 CPAP无效及不耐受患者【1B】o
+【推荐意见说明】该项治疗目前在国内尚未开 展 ; 国外相关研究结果提示该项治疗对患者主、客观 指标均有较好改善 ,但远期疗效有待进一步观察 o
+(七)牵引成骨术
+牵引成骨术通过将骨切开后应用牵引装置缓慢 牵拉使截骨间隙中形成新骨从而达到延长骨骼的目 的 ,临床广泛应用于颅颌面骨畸形的整复o 其通过骨 延长或扩张 ,不但能恢复或显著改善颅颌面形态 ,也可
+
+
+显著扩大上气道以治疗颅颌骨畸形继发的OSA[66-67] o
+【推荐意见】推荐用于颅颌骨畸形且需要大幅 度成骨的成年严重 OSA患者【1A】o
+【推荐意见说明】颅颌骨畸形继发的 OSA,包括 Crouzon 综合征、Apert综合征、Pfeiffer综合征等 , Pierre Robin 序列征、第一、二鳃弓综合征、Treacher Collins综合征、颞颌关节强直小下颌畸形等[67] o
+(八)单颌手术
+上颌骨的大小和位置决定鼻腔、鼻咽腔和腭咽 腔的空间 ,下颌骨的形态则是口腔、腭咽腔、舌咽腔 和喉咽腔形态的关键因素 o 上或下颌骨的发育不良 或后缩会导致上气道的狭窄或阻塞 o 通过颌骨截骨 前移 ,牵拉附着于颌骨的软组织 ,扩大气道容积和改 变咽壁顺应性 o 适用于单颌畸形继发 OSA,如小下 颌或上颌 o 单颌手术一般包括上颌 LefortI 截骨前 移和(或)中线劈开扩弓及下颌失状劈开(SSRO) 前 移术[68-69] o
+【推荐意见】(1) 对于小颌畸形、上或下颌后缩 所继发的 OSA患者行单颌手术治疗【1A】;(2) 推荐 单颌手术与正畸联合治疗【1A】o
+(九)双颌前移术
+双颌前移术颌骨畸形、肥胖伴严重 OSA患者的 主要方法 ,也为各种 OSA手术失败的后续治疗手 段 o 足够幅度的颌骨前移( >10 mm)能使整个上呼 吸道得到显著的拓展 ,使严重颌骨畸形伴 OSA患者 颌面形态恢复正常 ,甚至可达到 OSA治愈的效果 o 对肥胖伴严重 OSA患者或其他手术失败患者也有 显著疗效 ,手术成功率 >90% [70-73] o
+【推荐意见】(1)推荐双颌前移术作为严重颌骨 畸形 OSA、各种 OSA手术失败和肥胖重度 OSA患 者治疗措施【1A】;(2) 建议 AHI>70 次/h 或 BMI 32 ~40  kg/m2   患者可行双颌同期前牵引术治疗 【2C】o
+【推荐意见说明】对于微凸面型的东方人群 ,大 幅度颌骨前移会造成颌面部继发畸形 , 目前已发展 改良术式[70] o  对严重肥胖(BMI>40 kg/m2 ) 的重 度 OSA患者进行双颌前移治疗效果有限 ,可考虑行 减重治疗[74] o
+(十)减重代谢手术(BMS)
+BMS 在减重的同时 ,能有效改善患者上气道塌 陷 ,减轻和消除呼吸暂停事件[75] o 腹腔镜微创手术 在术后早期的病死率及并发症发生率方面明显低于 开腹手术 ,故 BMS 强烈推荐行腹腔镜手术 o
+适应证:(1) 年龄为 16 ~65 岁;(2) 当 BMI≥
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,vol.98 , No.24                                                      . 1909 .
+
+
+27. 5 kg/m2  且 AHI≥30 次/h ,需考虑 BMS;男性腰 围≥90 cm、女性腰围 ≥85 cm时 ,可酌情提高手术 推荐等级;(3)肥胖患者中 ,OSA与肥胖低通气综合 征共患率在20%以上 ,术前需经有效无创正压通气 纠正后 , 即血气分析中 PH值在正常范围、PaCO2   <
+45  mmHg、HCO3-     浓 度  <27   mmol/L 方 可 考 虑 手术[14] o
+禁忌证:(1)BMI<25 kg/m2   者目前不推荐手 术;(2)高碳酸血症(PaCO2 ≥45 mmHg)者;(3)严重 影响气道的头面部骨性畸形或异常;(4) 妊娠期 ; (5)滥用药物或酒精成瘾或患有难以控制的精神疾 病;(6)智力障碍或智力不成熟 ,行为不能自控者 ; (7)对手术预期不符合实际者;(8) 不愿承担手术潜 在并发症风险者;(9) 不能配合术后饮食及生活习 惯的改变 ,依从性差者;(10) 全身状况差 ,难以耐受 全身麻醉或手术者[14] o
+【推荐意见】(1) 由于肥胖患者通常合并 OSA 和肥胖低通气综合征 ,可明显增加术后并发症发生  率和病死率 ,故推荐腹腔镜胃袖状切除术(LSG) 或  腹腔镜 Roux-en-Y 胃旁路术(LRYGB)【1B】o  (2)  推荐制定长期复诊方案 ,术后跟踪随访 PSG以评估  手术疗效【1C】o
+【推荐意见说明】 LSG是一种以限制胃容积为 主的手术类型 ,保持原胃肠道解剖关系 ,可改变部分 胃肠激素水平 o  LRYGB是 BMS 经典的术式 , 限制 胃容积的同时减少肠道吸收 ,亦可改变胃肠激素的 水平 o  以上两种术式均可实现良好的减重和代谢指 标改善效果 o  BMS 标准术式除 LSG和 LRYGB之 外 ,还包括腹腔镜可调节胃绑带术(LAGB) 和胆胰 分流合并十二指肠转位术(BPD-DS)o  LAGB虽不 损伤胃肠道的完整性且完全可逆 ,但由于缺乏中长 期疗效的循证医学证据 ,故不再推荐应用 o  BPD-DS 虽在减重疗效和代谢指标控制方面优于其他术式 , 但由于术后营养相关并发症发生率及病死率均高于 其他术式 ,需谨慎采用[76] o
+(十一)气管切开术
+气管切开术是首先被用于治疗 OSA的术式 ,手 术成功率几乎是 100% , 目前仍被用作某些重度患 者的最后治疗手段[32] o
+【推荐意见】气管切开术可单独作为重度 OSA 的治疗方式 ,但由于可导致生活质量下降 ,推荐在无  其他治疗选择或临床紧急情况下考虑此操作【1A】o
+第三部分   OSA合并其他睡眠障碍疾病的治疗
+一、OSA合并失眠
+
+
+临床 上 以 OSA 症 状 为 主 诉 就 诊 的 患 者 中 39% ~68%同时患有失眠[77-78]  , 以失眠就诊的患者 中约 1/2 经 PSG监测后确诊为 OSA[79] o  失眠可能 通过减弱咽肌张力加重 OSA[80]  , 而 OSA也可能因 反复睡眠片段化、下丘脑-垂体-肾上腺轴功能亢进 等复杂机制导致失眠[81]  ,仅极少患者得到诊断 o
+OSA合并失眠患者的临床表现多以失眠为 主 [82] o 与单纯 OSA患者相比 , OSA合并失眠患者 较年轻 ,且女性较多 ,睡眠感降低(而单纯 OSA患者 正常),睡眠紊乱和睡眠相关性日间功能损害更重 , 生活质量更差 ,共患精神疾病、心血管疾病和肺部疾 病更常见[81 ,83] o  OSA合并失眠患者使用精神或催 眠药比单纯失眠者多[80] o  失眠亚型主要是睡眠维 持困难型或混合型 ,纯入睡困难型比例小 o
+OSA合并失眠的治疗需兼顾 OSA和失眠两个 方面 o 治疗成功是否取决于失眠和 OSA间关系的 性质 o 若失眠继发于 OSA,则经 CPAP治疗可减轻 o 若失眠独立存在 ,则 CPAP治疗改善睡眠效果差 ,而 针对失眠的治疗可能有效 , 包括认知行为治疗 (CBT- I )及药物治疗[81] o
+【推荐意见】(1) 对于 OSA继发失眠患者推荐  使用 CPAP治疗【1B】;(2)建议失眠的治疗在 CPAP 之前进行【2C】;(3) 失眠治疗首选 CBT- I ,其疗效  可能不受 OSA的影响【1B】;(4) 推荐使用非苯二氮  类药物(non-BZDs)中的唑吡坦和右佐匹克隆 ,常  规剂量使用可改善睡眠质量而不恶化 OSA患者的  AHI和最低 SaO2【1A】;(5) 药物治疗失眠可改善  CPAP滴定期间的睡眠质量( 延长睡眠时间、增加睡  眠效率)、改善 CPAP的依从性【1B】o
+【推荐意见说明】不推荐药物用于 OSA本身的  治疗 o 有失眠(入睡难、维持睡眠难和早醒) 和对睡  眠质量不满意的患者接受 CPAP治疗的依从性欠  佳 ,但1/4 患者耐受性好且失眠改善[84] o  OSA合并  失眠患者的 OSA越严重 , 醒来越频繁 , 使用 CPAP 后失眠越可能改善或缓解[82] o
+药物治疗失眠可能会恶化 OSA症状 ,要避免使 用苯二氮类(BZDs) 和巴比妥类药物[85] o  右佐匹 克隆可减少 AHI,不改变最低 SaO2 ,尤其在上呼吸 道解剖受损较轻者[86] o  唑比坦也可能不恶化呼吸 紊乱 [87] o  曲唑酮也能够降低 AHI、减少非快速眼动 (NREM) 1 期睡眠[88] o 小剂量米氮平可改善即刻 睡眠、降低 AHI,但长期使用增加体质量效应明显 , 故不推荐使用 o
+在 CPAP滴定前使用右佐匹克隆可改善睡眠质
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+. 1910 .                                                    中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,Vol.98 , No.24
+
+
+
+注:OSA:阻塞性睡眠呼吸暂停;NPPV:无创气道正压通气;PSG:多导睡眠监测 ; OCST: 睡眠中心外睡眠监测 ;AHI:呼吸暂停低通气指数 ;不同外科手术治疗 OSA的机制、优先 选择人群和手术创伤详见前文
+图 2    OSA多学科联合治疗路径图
+
+
+合并发作性睡病具有重要临床 意义 o
+【推荐意见】(1) 对于年龄轻、 严重思睡(如 ESS 评分 >15 分)但  OSA较轻(AHI<30 次/h) 的患者  应怀疑合并发作性睡病[1C];  	(2)对可疑合并发作性睡病的患  者 , 推 荐 行  MSLT 以 明 确 诊 断  【1A】;(3) 莫达非尼(阿莫达非  尼) 可用于经 CPAP有效治疗后  OSA残余思睡的患者【1C】o
+【推荐意见说明】莫达非尼  (阿莫达非尼) 对 OSA和发作性  睡病各 自导致的日间思睡均有  效 , ≥12 个月的治疗疗效可持续、 耐受性好[92] o
+三、OSA合并不宁腿综合征 (RLS)
+认识 OSA合并 RLS 患者具 有重要的临床意义 o  RLS 患者表 现为睡眠起始和( 或) 维持困难 , 多发于傍晚或夜间 , 与周期性腿 动 关 联 度 高[93] o  RLS  常 见 于 OSA患者 o  约 8. 3% 的 OSA患者 合并有临床意义的 RLS( 普通人 群 2.5%) [94] o  大部分 RLS 患者 症状可在 2 年内 自然 消 失 , 约 40%的患者症状持续 2 年以上 , 且症 状 越 频 繁 病 程 可 能 越 持 续 [95] o  OSA 合 并  RLS  患 者 的 RLS 症状在 CPAP治疗 3 个月后 可减轻[96]  ,但对日间思睡减轻不
+
+
+
+量 ,减少重复滴定次数 o 在进行 CPAP的开始 2 周 使用右佐匹克隆可改善半年后的依从性、降低脱 落率[89] o
+二、OSA合并发作性睡病
+几乎半数 OSA患者有日间思睡的表现 o  大量  日间思睡患者 PSG监测后仅证明存在 OSAo  因此 ,  许多发作性睡病合并 OSA 的患者可能仅诊断为  OSA,而忽视了发作性睡病[90] o 有资料显示发作性  睡病合并 OSA 的比例很高 ,成人发作性睡病患者  5 年内共病 OSA的比例达 51. 4% ,是一般疾病人群  的18.7 倍[91] o  而大多数 OSA伴发作性睡病者的  日间思睡症状经 CPAP治疗无效[90]  , 因此认识 OSA
+
+
+显著 ,可能是由于 RLS 所引起的残留性疲劳还存 在[97] o  即使治疗了 OSA, RLS 仍 能 影 响 睡 眠 质 量 [93] o
+【推荐意见】(1) 推荐对 RLS 患者系统评估是 否合并 OSA【1B】;(2)推荐 CPAP治疗 , 因为可在改 善 OSA症状的同时改善 RLS【1B】;(3) 推荐对症状 持续或频繁且损害生活质量和睡眠效率的 OSA合 并 RLS 患者行药物治疗【1B】o
+【推荐意见说明】OSA合并 RLS 患者的 RLS 是  否需要治疗取决于症状的频度和损害的程度 o  间歇  性症状时 ,生活方式改变和简单措施( 如适当锻炼、 戒咖啡、腿按摩、冷或热浴) 可能有效 o 对症状较重
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,vol.98 , No.24                                                      . 1911 .
+
+
+患者应行药物治疗[93] 。多巴胺受体激动剂是 RLS 的一线治疗 ,可缓解 90%患者的症状 ;氯硝西泮对 RLS 有一定疗效 ,但因会恶化 OSA需慎用[93 ,98] 。
+四、OSA合并 REM期行为障碍(RBD)
+RBD是一种异态睡眠 , 特征是 REM 期间肌肉 失弛缓 ,导致过度运动和梦境扮演[99] 。约 2/3 以上 诊断为特发性 RBD 的患者在晚年演变为痴呆和 (或)帕金森病[100] 。RBD患者有 34%  ~61%合并 OSA[100] 。另一方面 ,许多严重的 OSA患者在呼吸 事件终止时可出现 RBD样症状[101] 。鉴于 REM 期 间持续高肌电活动的典型特征 ,RBD可能是 OSA的 保护因素[102] 。RBD合并 OSA患者的呼吸暂停相 关参数可较单纯 OSA患者轻[103-104] 。
+【推荐意见】(1) 有 RBD症状者必须进行 PSG 监测以明确是否合并 OSA【1C】;(2) 除了标准 RBD 治疗 , CPAP治 疗 可 一 定 程 度 上 改 善 RBD 症 状  【1C】;(3)RBD 的药物治疗可选择氯硝西泮 ,但因  可降低呼吸肌张力而加重 OSA, 因此需慎用【1C】。
+【推荐意见说明】临床上须正确区分 OSA患者 合并 RBD 和 OSA 相关 RBD 样症状 , 后者可因 CPAP治疗而消失[101] 。RBD患者接受 CPAP治疗 OSA后 RBD症状有改善者可达45. 6% [99] 。
+
+指南制定成员(按单位名称汉语拼音排序)
+组长:清华大学附属北京清华长庚医院 清华大学临床医学 院(叶京英)
+顾问:北京大学循证医学中心( 詹思延) ; 北京协和医院 ( 肖毅) ;天津市呼吸病研究所(陈宝元) ; 中国医学科学院 北京协和医学院(王辰)
+专家组:安徽医科大学附属巢湖医院(陈贵海) ;北京安贞医  院(魏永祥) ;北京大学第三医院(张立强) ;北京大学第一医  院( 肖水芳) ;北京大学精神卫生中心 北京大学中国药物依  赖研究所(陆林) ;北京大学口腔医院( 高雪梅) ;第二军医大  学附属长征医院(赵忠新) ;第四军医大学口腔医院( 于擘) ;  第四 军 医 大 学 唐 都 医 院 ( 宿 长 军) ; 甘 肃 省 人 民 医 院  (谢宇平) ;广东省精神卫生中心(贾福军) ;广西壮族自治区  人民医院(刘建红) ;广州医科大学附属第一医院(罗远明、 张孝文) ;河北医科大学第三医院( 王菡侨) ;河北医科大学  第一医院(顾平) ;华中科技大学同济医学院附属协和医院  (陈雄) ;吉林大学第一医院(王赞) ;暨南大学附属第一医院  (潘集阳、王存川 ) ;解放军空军总医院(高和) ;南方医科大  学南方医院(张斌) ;南京医科大学第一附属医院 江苏省人  民医院(张希龙、梁辉) ; 山东大学齐鲁医院( 李延忠) ;上海  交通大学医学院附属第九人民医院( 卢晓峰、王兵) ;上海交  通大学医学院附属瑞金医院( 李庆云) ; 上海市中医医院  (徐建) ;沈阳军区总医院(李树华) ;首都医科大学附属北京
+
+
+朝阳医院( 郭兮恒) ; 首都医科大学附属北京友 谊 医 院 (张忠涛) ;首都医科大学宣武医院(詹淑琴) ; 四川大学华西 医院(唐向东) ;苏州大学附属第二医院(陈锐) ; 同济大学附 属东方医院(朱江帆) ;武汉大学口腔医学院( 贺红) ; 中国医 科大学附属第四医院(刘金钢、王勇) ; 中南大学湘雅三医院 (朱晒红)
+主要撰稿人:安徽医科大学附属巢湖医院(陈贵海) ;北 京大学第三医院(张立强) ;北京大学口腔医院( 高雪梅) ;第 二军医大学附属长征医院( 赵忠新) ;广西壮族自治区人民 医院(刘建红) ;南方医科大学南方医院( 张斌) ;清华大学附 属北京清华长庚医院 清华大学临床医学院( 叶京英) ;上海 交通大学医学院附属第九人民医院( 卢晓峰、王兵) ;上海交 通大学医学院附属瑞金医院(李庆云)
+秘书组:安徽医科大学附属巢湖医院( 张萍) ;广西壮族 自治区人民医院(覃丽霞) ;南方医科大学南方医院( 许艳) ; 清华大学附属北京清华长庚医院 清华大学临床医学院 (尹国平) ;首都医科大学附属北京同仁医院(周颖倩)
+
+参   考   文   献
+[1]  young T, PaltaM, Dempsey J, et al.  The occurrence of sleep-   disordered  breathing  among  middle-aged  adults [ J] .   N EnglJ Med ,   1993 ,   328    ( 17  ):    1230-1235 .     DOI:   10 .    1056/   NEJM199304293281704 .
+[2]  中华耳鼻咽喉头颈外科杂志编辑委员会.  阻塞性睡眠呼吸暂 停低通气综合征诊断和外科治疗指南[J] .   中华耳鼻咽喉头 颈外科杂志 , 2009 , 44  (2): 95-96 .   DOI: 10 . 3760/cma.j.  issn. 1673-0860 . 2009 . 02 . 003 .
+[3]  Sutherland k, CistulliPA.  Recent advances in obstructive sleep apnea pathophysiology  and  treatment [ J] .   Sleep  Biol  Rhythm, 2015 , 13 (1): 26-40 .
+[4]  Peppard PE.  Sleep  disordered breathing and mortality: eighteen- year follow-up of the Wisconsin sleep cohort[J].  Sleep , 2008 , 31
+(8): 1071-1078 .
+[5]  中华医学会呼吸病学分会睡眠呼吸疾病学组.  睡眠呼吸暂停 人群高血压患病率的多中心研究[J].   中华结核和呼吸杂志 , 2007 , 30  (12):  894-897 .   DOI:  10 .  3760/j.  issn : 1001-0939 .  2007.12.007.
+[6]  ArztM, young T, Finn L, et al.  Association of sleep-disordered breathing and the occurrence of stroke[J].  Am JRespir Crit Care Med , 2005 ,  172  ( 11 ):  1447-1451 .    DOI:  10 .   1164/rccm.  200505-702OC.
+[7]  陈宝元 , 何权瀛.  阻塞性睡眠呼吸暂停综合征的系统性损害 [J].   中华医学杂志 , 2012 , 92 (18):1225-1227 .   DOI: 10.  3760/cma.j. issn. 0376-2491 . 2012 . 18 . 001 .
+[8]  ReinersC, Schneider R, Akashi M, et al.  The First Meeting of the WHO Guideline  Development  Group  for  the  Revision of  the  WHO1999  Guidelines  for  Iodine  Thyroid  Blocking[ J] .   Radiat  Prot Dosimetry, 2016 , 171  ( 1 ): 47-56 .   DOI:  10 .  1093/rpd/ ncw238 .
+[9]  蒋朱明 , 詹思延 , 贾晓巍 , 等.  制订/修订《临床诊疗指南》的 基本方法及程序[ J] .   中华医学杂志 , 2016 , 96  (4): 250- 253 .  DOI: 10.3760/cma.j. issn. 0376-2491 . 2016 . 04 . 004 .
+[10]  GuyattG, Oxman AD, AklEA, et al.   GRADEguidelines: 1.  Introduction-GRADE evidence  profiles  and  summary  of  findings tables[J] .  JClin Epidemiol, 2011 , 64  (4): 383-394 .   DOI:
+10 . 1016/j.jclinepi. 2010 . 04 . 026 .
+[11]  睡眠呼吸暂停与心血管疾病专家共识写作组.  睡眠呼吸暂停
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+. 1912 .                                                   中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期    Natl Med Jchina, June26 ,2018 ,Vol.98 , No.24
+
+
+与心血管疾病专家共识[J].  中华内科杂志 , 2009 , 48  (12): 812-820 .  DOI: 10.3760/cma.j. issn. 1671-7368 . 2010 . 03 . 009 .
+[12]  中国睡眠研究会.  中国失眠症诊断和治疗指南[J].  中华医学 杂志 , 2017 , 97 (24): 1844-1856 .  DOI: 10.3760/cma.j. issn.  0376-2491 . 2017 . 24 . 002 .
+[13]  中国医师协会高血压专业委员会 , 中华医学会呼吸病学分会 睡眠呼吸障碍学组.  阻塞性睡眠呼吸暂停相关性高血压临床 诊断和治疗专家共识[J].   中国呼吸与危重监护杂志 , 2013 , 12 (5): 435-441 .  DOI: 10 . 7507/1671-6205 . 20130105 .
+[14]  中国医师协会外科医师分会肥胖和糖尿病外科医师委员会.  中国肥胖和 2 型糖尿病外科治疗指南(2014)  [J].   中国实用 外科杂志 , 2014 , 8  (11): 1005-1010 .   DOI: 10 . 7504/cJps.  IssN1005-2208 . 2014 . 11 . 01 .
+[15]  中华医学会呼吸病学分会睡眠呼吸疾病学组.  阻塞性睡眠呼 吸暂停低通气综合证诊治指南(草案)  [J].   中华结核和呼吸 杂志 , 2002 , 15  (4):  195-198 .   DOI:10 . 3760/j.issn.  1001- 0939.2002.04.002.
+[16]  中华医学会呼吸病学分会睡眠呼吸障碍学组.  阻塞性睡眠呼 吸暂停低通气综合征诊治指南(2011 年修订版)  [J].  中华结 核和呼吸杂志 , 2012 , 35  (1): 9-12 .  DOI: 10 . 3760/cma.j.  issn. 1001-0939 . 2012 . 01 . 007 .
+[17]  中华医学会呼吸病学分会睡眠呼吸障碍学组.  家庭无创正压 通气临床应用技术专家共识[ J] .   中华结核和呼吸杂志 , 2017 , 40  (7): 481-493 .   DOI:  10 .  3760/cma.  j.  issn.  1001- 0939.2017.07.001.
+[18]  中华医学会呼吸病学分会睡眠呼吸障碍学组.  睡眠呼吸疾病 无创正压通气临床应用专家共识(草案)  [J].   中华结核和呼 吸杂志 , 2017 , 40  (9): 667-677 .   DOI: 10 . 3760/cma.j. issn.  1001-0939 . 2017 . 09 . 011 .
+[19]  阻塞性睡眠呼吸暂停与卒中诊治专家共识组.  阻塞性睡眠呼 吸暂停与卒中诊治专家共识[J] .   中华内科杂志 , 2014 , 53
+(8): 657-664 .   DOI:  10 . 3760/cma.j.  issn. 0578-1426 . 2014 . 08.021.
+[20]  Aurora RN, casey kR, kristoD, et al.  practice parameters for the surgical modifications of the upper airway for obstructive sleep apnea in adults[J].  sleep , 2010 , 33  (10): 1408-1413 .
+[21]  Bibbins-Domingo k, Grossman Dc, curry sJ, et al.  screening for Obstructive sleep Apnea in Adults: Us preventive  services Task Force Recommendation statement[J] .  JAMA, 2017 , 317  (4): 407-414 .  DOI: 10 . 1001/jama.2016 . 20325 .
+[22]  Jonas DE, Amick HR, Feltner c, et al.   screening for Obstructive sleep Apnea in Adults: Evidence  Report  and  systematic  Review for the Us preventive services Task Force[J].  JAMA, 2017 , 317
+(4): 415-433 .  DOI: 10 . 1001/jama.2016 . 19635 .
+[23]  kapurVk, Auckley DH, chowdhuris , et al.  clinical practice Guideline  for   Diagnostic   Testing   for   Adult   Obstructive   sleep Apnea: An  American  Academy  of sleep  Med  clinical  practice Guideline[J].  Jclin sleep Med , 2017 , 13 (3): 479-504 .  DOI: 10 . 5664/jcsm. 6506 .
+[24]  sharma s , Essick G, schwartz  D, et  al.   sleep  Med  care  under one roof: a proposed model for integrating dentistry and medicine  [J].  Jclin sleep Med , 2013 , 9 (8): 827-833 .  DOI:10 . 5664/ jcsm. 2934 .
+[25]  sharmask, katoch VM, Mohan A, et al.  consensus&evidence-  based INOsAGuidelines2014 (first edition)  [J].  Indian JMed  Res, 2014 , 140 (3): 451-468 .
+[26]  spicuzzaL,  caruso   D,   DiMG.   Obstructive   sleep   apnoea syndrome and its management[J].  TherAdv chronic Dis, 2015 , 6 (5): 273-285 .  DOI: 10 . 1177/2040622315590318 .
+[27]  Qaseem A, Dallas p, Owens Dk, et al.   Diagnosis of obstructive sleep  apnea   in  adults :  a  clinical  practice  guideline  from  the American college of physicians[J].  Ann Intern Med , 2014 , 161
+(3): 210-221 .  DOI: 10 . 7326/M12-3187 .
+[28]  Qaseem  A,  Holty   JE,   Owens   Dk,   et   al.     Management   of obstructive sleep  apnea  in  adults :  A clinical  practice  guideline
+
+
+from the  American  college  of  physicians[J] .  Ann Intern Med , 2013 , 159  (7 ): 471-483 .   DOI:  10 .  7326/0003-4819-159-7- 201310010-00704 .
+[29]  Ramark, DortLc, katz sG, et al.  clinical practice Guideline for  the  Treatment  of  Obstructive  sleep  Apnea  and  snoring with Oral Appliance Therapy: An Update for2015[J] .  Jclin sleep Med , 2015 , 11  (7): 773-827 .  DOI: 10 . 5664/jcsm. 4858 .
+[30]  Verse T, Dreher  A,  Heiser  c,  et  al.   ENT-specific  therapy  of obstructive sleep  apnoea  in  adults[J] .  sleep Breath , 2016 , 20
+(4): 1301-1311 .  DOI: 10 . 1007/s11325-016-1353-9 .
+[31]  de   Raaff   cAL,   Gorter-stam    MAw,   de   Vries    N,   et   al.  perioperative management  of  obstructive  sleep  apnea  in bariatric surgery : aconsensus guideline[J].  surgObes RelatDis, 2017 , 13  (7): 1095-1109 .  DOI: 10 . 1016/j. soard. 2017 . 03 . 022 .
+[32]  AlLawatiNM, patel sR, Ayas NT. Epidemiology, risk factors , and  consequences   of  obstructive   sleep   apnea   and   short   sleep duration[ J] .   prog  cardiovascDis, 2009 , 51  (4):  285-293 .  DOI: 10 . 1016/j. pcad. 2008 . 08 . 001 .
+[33]  LimDc, pack AI.  Obstructive sleep Apnea: Update and Future  [J] .   Annu  Rev  Med ,  2017 ,  68 : 99-112 .   DOI:  10 .   1146/ annurev-med-042915-102623 .
+[34]  Lam   Jc,   sharma   sk,   Lam   B.    Obstructive   sleep   apnoea: definitions , epidemiology&  natural  history [ J] .   Indian  JMed Res, 2010 , 131 :165-170 .
+[35]  Morgenthaler  TI,   kapen   s ,   Lee-chiong   T,  et   al.    practice parameters for the medical therapy of obstructive sleep apnea[J].  sleep , 2006 , 29  (8): 1031-1035 .
+[36]  Lin YN,  LiQY, zhang  XJ.  Interaction  between  smoking  and   obstructive sleep  apnea :  not  just  participants[ J] .   chin  Med J (Engl), 2012 , 125  (17): 3150-3156 .  DOI: 10 . 3760/cma.j.
+issn. 0366-6999 . 2012 . 17 . 033 .
+[37]  somersVk,  white   Dp,  Amin   R,  et   al.    sleep  apnea  and cardiovascular disease : an American Heart Association/American college  of  cardiology   Foundation  scientific  statement  from   the American  Heart  Association  council  for  High  Blood  pressure Research professional  Education  committee, council on clinical cardiology,  stroke   council,   and   council    on   cardiovascular Nursing[J].  JAm coll cardiol, 2008 , 52  (8): 686-717 .  DOI:
+10 . 1016/j.jacc. 2008 . 05 . 002 .
+[38]  wang X, Bi Y, zhang Q, et al.  Obstructive sleep apnoea and the risk  of  type2   diabetes:  a   meta-analysis  of  prospective   cohort studies[ J] .   Respirology, 2013 , 18  ( 1 ):  140-146 .   DOI:  10.  1111/j.1440-1843 . 2012 . 02267 . x.
+[39]  Robinson  GV,   pepperell  Jc,  segalHc,  et  al.    circulating cardiovascular risk factors  in  obstructive  sleep  apnoea : data from randomised controlled  trials[ J] .  Thorax, 2004 , 59  (9): 777- 782 .  DOI: 10 . 1136/thx.2003 . 018739 .
+[40]  sharmask, Reddy EV, sharma A, et  al.   prevalence  and  risk factors of syndrome z in urban Indians[J].  sleep Med , 2010 , 11
+(6): 562-568 .  DOI: 10 . 1016/j.sleep. 2010 . 02 . 008 .
+[41]  Vogelmeier cF, crinerGJ, Martinez FJ, et al.  Global strategy for the   Diagnosis,   Management,    and    prevention    of    chronic Obstructive Lung Disease2017 Report.  GOLDExecutive summary [J].  Am JRespir crit careMed , 2017 , 195  (5): 557-582 .
+DOI: 10 . 1164/rccm. 201701-0218pp.
+[42]  Adams  RJ, Appleton  sL,  Vakulin  A,  et  al.    chronic  kidney Disease  and  sleep  Apnea  Association  of  kidney   Disease   with Obstructive sleep Apnea in a population study of Men[J].  sleep , 2017 , 40  (1) .  DOI: 10 . 1093/sleep/zsw015 .
+[43]  campos-Juanatey F, Fernandez-Barriales  M, Gonzalez  M, et al.  Effects  of  obstructive   sleep   apnea  and  its   treatment   over  the erectile function : asystematic review[J].  Asian JAndrol, 2017 , 19 (3): 303-310 .  DOI: 10 . 4103/1008-682X. 170440 .
+[44]  sarberg M, Bladh M, Josefsson A, et al.   sleepiness  and  sleep- disordered breathing during pregnancy[J] .   sleep Breath , 2016 ,
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med Jchina, June26 ,2018 ,vol.98 , No.24                                                     .  1913 .
+
+
+20 (4): 1231-1237 .  DOI: 10 . 1007/s11325-016-1345-9 .
+[45]  Lin TY, Lin pY, Su Tp, et al.   Risk  of developing  obstructive sleep apnea  among  women  with  polycystic   ovarian  syndrome : a nationwide longitudinal  follow-up  study[ J] .   Sleep  Med ,  2017 , 36:165-169 .  DOI: 10 . 1016/j.sleep. 2016 . 12 . 029 .
+[46]  GilaniS ,  Quan  SF,  pynnonen  MA,  et  al.    Obstructive   Sleep Apnea  and  Gastroesophageal  Reflux: AMultivariate  population- Level  Analysis[ J] .   Otolaryngol  Head  Neck  Surg,  2016 ,  154
+(2): 390-395 .  DOI: 10 . 1177/0194599815621557 .
+[47]  chen X,  Lin  X,  chen  LD,  et  al.    Obstructive  sleep  apnea  is associated with fatty  liver  index , the  indexof nonalcoholic  fatty liver disease[J] .  Eur JGastroenterol Hepatol, 2016 , 28  (6): 650-655 .  DOI: 10 . 1097/MEG.0000000000000598 .
+[48]  Jackson  ML,  Howard   ME,  Barnes   M.   cognition   and  daytime functioning in  sleep-related  breathing  disorders[ J] .   prog  Brain Res, 2011 ,  190 : 53-68 .   DOI:  10 .  1016/B978-0-444-53817-8 .
+00003-7 .
+[49]  任蕾 , 王凯 , 杜井波 ,等.  脑血栓形成合并阻塞性睡眠呼吸暂 停综合征对认知和神经功能障碍的影响[J] .   中国临床神经 科学 , 2009 , 17 (4): 392-395 .
+[50]  Nguyen cD,  HoltyJc.   Does  untreated  obstructive  sleep  apnea cause secondary erythrocytosis[J].  Respir Med , 2017 , 130:27- 34 .  DOI: 10 . 1016/j.rmed. 2017 . 07 . 003 .
+[51]  wu  Y,  zhou   LM,  Lou   H,  et   al.    The   Association  Between Obstructive Sleep Apnea and Nonarteritic Anterior Ischemic Optic Neuropathy: A Systematic  Review  and  Meta-Analysis[ J] .   curr Eye Res, 2016 , 41  (7): 987-992 .   DOI: 10 . 3109/02713683 .
+2015.1075221.
+[52]  Sheu JJ, wu cS , Lin Hc.   Association between obstructive sleep apnea and sudden  sensorineural  hearing loss : a population-based case-control study[J].  Arch Otolaryngol Head Neck Surg, 2012 , 138 (1): 55-59 .  DOI: 10 . 1001/archoto.2011 . 227 .
+[53]  GadiG, waliS , koshak  E, et  al.   The  prevalence  of  allergic   rhinitis and  atopic  markers  in  obstructive  sleep  apnea [ J] .   J Epidemiol Glob Health , 2017 , 7 (1): 37-44 .  DOI: 10 . 1016/j.    jegh. 2016 . 06 . 001 .
+[54]  卢晓峰 , 徐竹梅 , 朱敏 ,等.   肥胖伴 OSAHS 患者头影测量研 究[J].  中国口腔颌面外科杂志 , 2003 , 1 (4): 196-199 .
+[55]  Berry RB, Brooks R, Gamaldo cE, et al.  The AASMManual for the Scoring of Sleep  and Associated Events: Rules, Terminology and Technical Specifications[M] .  version 2 . 2 .   Darien , Illinois : American Academy of Sleep Medicine, 2015.
+[56]  NetzerNc,  StoohsRA,  NetzercM,  et  al.   using  the  Berlin Questionnaire  to   identify   patients   at   risk  for  the   sleep   apnea syndrome[J].  Ann Intern Med , 1999 , 131 (7): 485-491 .
+[57]  chung F, Yegneswaran B, Liao p, et al.  STOp questionnaire: a tool   to    screen    patients    for   obstructive    sleep    apnea   [ J] .  Anesthesiology, 2008 , 108 (5): 812-821 .  DOI:10 . 1097/ALN.  0b013e31816d83e4 .
+[58]   (AASM) AAoSM.   International  classification of sleep disorders , third  edition   ( IcSD-3 )  [ M ] .    westchester,   IL:   American Academy of Sleep Med , 2014.
+[59]  TIM,  RNA,  TB,  et  al.   practice  parameters  for  the  use  of autotitrating   continuous    positive   airway   pressure    devices    for titrating pressures and treating adult patients with obstructive sleep apnea syndrome : an update for2007 .   An American Academy  of Sleep Med report[J].  Sleep , 2008 , 31  (1): 141-147 .
+[60]  Gong X, zhang J, zhao Y, et al.  Long-term therapeutic efficacy of oral appliances in treatment of obstructive sleep apnea-hypopnea syndrome[ J] .   Angle  Orthod , 2013 , 83  (4): 653-658 .   DOI:
+10 . 2319/060412-463 . 1 .
+[61]  高雪梅 , 曾祥龙 , 傅民魁 ,等.   口腔矫治器治疗 OSAS 的下颌 定位[J].  中华口腔正畸学杂志 , 2000 , 7 (1): 20-22 .
+[62]  zhu Y, Long H, Jian F,et al.  The effectiveness of oral appliances for obstructive sleep  apnea   syndrome :  A meta-analysis [ J] .   JDent,
+
+
+2015 , 43(12):1394-1402.  DOI: 10.1016/j.jdent.2015. 10.008.
+[63]  camacho M,  LiD,  kawai  M,  et  al.   Tonsillectomy  for  adult obstructive  sleep  apnea :  A systematic  review  and  meta-analysis [J] .   Laryngoscope,  2016 ,  126  (9): 2176-2186 .   DOI:  10.  1002/lary.25931 .
+[64]  Friedman M, Ibrahim H, Joseph NJ. Staging of obstructive sleep apnea/hypopnea syndrome : a guide to appropriate treatment[J] .
+Laryngoscope, 2004 ,  114   ( 3 ):  454-459 .    DOI:  10 .  1097/ 00005537-200403000-00013 .
+[65]  zhang J, Li Y, cao  X, et al.   The combination of anatomy and physiology  in  predicting  the  outcomes  of  velopharyngeal   surgery [J] .   Laryngoscope,  2014 ,  124  (7):  1718-1723 .   DOI:  10.  1002/lary.24510 .
+[66]  卢晓峰 , 唐友盛 , 沈国芳 ,等.  颌骨畸形伴阻塞性睡眠呼吸暂 停低通气综合征的牵引成骨治疗[J] .   中华耳鼻咽喉头颈外 科杂志 , 2003 , 38 (3): 166-171 .  DOI: 10.3760/j. issn :1673- 0860.2003.03.002.
+[67]  Tsui wk, Yang Y, cheung Lk, et al.   Distraction osteogenesis as a  treatment  of  obstructive   sleep  apnea   syndrome :  A systematic review[J].  Medicine(Baltimore), 2016 , 95 (36): 1-15 .  DOI:
+10 . 1097/MD. 0000000000004674 .
+[68]  Hoshijima   M,   Honjo    T,    Moritani    N,   et    al.     Maxillary Advancement  for   unilateral  crossbite  in  a  patient  with  Sleep Apnea Syndrome[J].  ActaMed Okayama, 2015 , 69  (3): 177- 182 .  DOI: 10 . 18926/AMO/53525 .
+[69]  Tan Sk, Leung wk, Tang  ATH, et  al.   How  does  mandibular advancement    with    or     without    maxillary     procedures     affect pharyngeal airways[J].  An overview of systematic reviews.  pLoS One, 2017 ,  12   ( 7 ):  1-19 .   DOI:  10 .  1371/journal.  pone.
+0181146.
+[70]  Lu    X,    zhang     H,    wei     S ,    et     al.      counterclockwise maxillomandibular  advancement :  a   choice   for  chinese  patients with severe obstructive sleep apnea[J].  Sleep Breath , 2017 , 21 : 853-860 .  DOI: 10 . 1007/s11325-017-1484-7 .
+[71]  vigneron  A,  Tamisier  R,  Orset   E,  et   al.    Maxillomandibular advancement  for   obstructive   sleep   apnea   syndrome   treatment : Long-term results[J] .  JcraniomaxillofacSurg, 2017 , 45  (2): 183-191 .  DOI: 10 . 1016/j.jcms. 2016 . 12 . 001 .
+[72]  卢晓峰 , 王猛 , 于雯雯 , 等.   重度 OSAHS 上气道骨框架重 构———双颌逆时针大幅度前旋治疗[J] .   中国口腔颌面外科 杂志 , 2014 , 12(3)  : 247-252 .
+[73]  Lu  XF,  Yu  w.    combined  counterclockwise   maxillomandibular advancement  and  uppp   surgeries   for  severe   obstructive   sleep apnea[J].  JcraniofacSurg, 2017 , 28(2):366-371 .   DOI: 10.  1097/ScS. 0000000000003294 .
+[74]  Efunkoya    AA,     Bamgbose     BO,    Adebola     RA,    et     al.  Maxillomandibular distraction osteogenesis[J].  JcraniofacSurg, 2014 ,   25     (  5  ):    1787-1792 .      DOI:     10 .     1097/ScS.  0000000000000907.
+[75]  peterli   R,  wolnerhanssen   Bk,  petersT,  et   al.    Effect  of  Laparoscopic   Sleeve    Gastrectomy   vs    Laparoscopic   Roux-en-Y Gastric Bypass on weight Loss in patients with Morbid Obesity:  The SM-BOSS Randomized clinical Trial[J].  JAMA, 2018 , 319
+(3): 255-265 .  DOI: 10 . 1001/jama.2017 . 20897 .
+[76]  MingroneG, Bornstein S , Le Roux cw.  Optimisation of follow-up after metabolic  surgery[ J] .   Lancet  Diabetes  Endocrinol, 2018.  DOI: 10 . 1016/S2213-8587(17)30434-5 .
+[77]  Luyster FS , BuysseDJ, StrollopJ, Jr.  comorbid insomnia and obstructive  sleep   apnea :  challenges   for   clinical   practice   and research[J].  Jclin Sleep Med , 2010 , 6  (2): 196-204 .
+[78]  SaaresrantaT,  Hedner  J,  Bonsignore   MR,   et   al.    clinical phenotypes and  comorbidity  in  European  Sleep  Apnoea patients [J].  pLoS One, 2016 , 11 (10): 1-15 .  DOI: 10 . 1371/journal.  pone. 0163439 .
+[79]  Series  F,  workshop  p.    can  improving  sleep  influence  sleep-
+
+
+Q2xvdWRWZXJzaW9uLQo?
+
+
+
+. 1914 .                                                    中华医学杂志 2018 年 6 月 26  日第 98 卷第24 期   Natl Med JChina, June26 ,2018 ,Vol.98 , No.24
+
+
+disordered breathing[J] .  Drugs, 2009 , 69  (2): 77-91 .   DOI:
+10 . 2165/11532000-000000000-00000 .
+[80]  Lichstein kL, Justin Thomas s , woosley JA, et al.  Co-occurring insomnia and obstructive sleep apnea[J] .  sleep Med , 2013 , 14
+(9): 824-829 .  DOI: 10 . 1016/j.sleep. 2013 . 02 . 008 .
+[81]  sweetman AM, Lack  LC,  Catcheside  PG,  et  al.    Developing  a successful treatment for co-morbid insomnia and sleep apnoea[J].  sleep Med Rev, 2017 , 33:28-38 .   DOI: 10 . 1016/j.smrv. 2016 .  04.004.
+[82]  MysliwiecV, MatsangasP, Baxter T, et al.   Comorbid insomnia and obstructive sleep apnea in military personnel : correlation with polysomnographic variables[J].  Mil Med , 2014 , 179  (3): 294- 300 .  DOI: 10 . 7205/MILMED-D-13-00396 .
+[83]  Ong  JC,   Crawford   MR,   kong    A,   et   al.     Management   of Obstructive  sleep  Apnea   and   Comorbid   Insomnia:  A Mixed- Methods Evaluation[J].  Behav sleep Med , 2017 , 15  (3): 180- 197 .  DOI: 10 . 1080/15402002 . 2015 . 1087000 .
+[84]  Pieh C, Bach  M, Popp R, et  al.   Insomnia  symptoms  influence CPAPcompliance[ J] .   sleep  Breath , 2013 ,  17  ( 1 ): 99-104 .  DOI: 10 . 1007/s11325-012-0655-9 .
+[85]  zhang  XJ,  LiQY,   wang   Y,  et   al.    The   effect   of   non- benzodiazepine hypnotics on sleep quality and severity in patients with OsA: a meta-analysis[J] .  sleep Breath , 2014 , 18  (4): 781-789 .  DOI: 10 . 1007/s11325-014-0943-7 .
+[86]  Landry  sA,  Joosten  sA,  sands   sA,  et   al.    Response   to   a   combination of oxygen and a hypnotic  as treatment for obstructive   sleep  apnoea   is   predicted   by   a   patient,s   therapeutic   CPAP requirement[J].  Respirology, 2017 , 22  (6): 1219-1224 .  DOI:
+10 . 1111/resp. 13044 .
+[87]  smith PR, sheikh  kL,  Costan-Toth  C,  et  al.   Eszopiclone  and zolpidem  Do   Not   Affect   the   Prevalence   of   the   Low   Arousal Threshold Phenotype[J].  JClin sleep Med , 2017 , 13  (1): 115- 119 .  DOI: 10 . 5664/jcsm. 6402 .
+[88]  smalesET, Edwards BA, Deyoung PN, et al.  Trazodone Effects on Obstructive sleep Apnea and Non-REMArousal Threshold[J].
+Ann Am Thoracsoc, 2015 , 12  (5): 758-764 .   DOI: 10 . 1513/ AnnalsATs. 201408-399OC.
+[89]  LettieriCJ, shah AA, Holley AB, et al.  Effects of a short course of eszopiclone on continuous positive airway pressure adherence: a randomized trial[J] .  Ann Intern Med , 2009 , 151  (10): 696- 702 .  DOI: 10 . 7326/0003-4819-151-10-200911170-00006 .
+[90]  sansaG,  IranzoA,  santamaria  J.  Obstructive  sleep  apnea  in narcolepsy[J] .   sleep Med , 2010 , 11  (1): 93-95 .   DOI:  10.  1016/j.sleep. 2009 . 02 . 009 .
+[91]  Black J, Reaven  NL, Funk  sE, et  al.   Medical  comorbidity  in narcolepsy :  findings   from   the   Burden   of   Narcolepsy    Disease (BOND)  study[ J] .   sleep  Med , 2017 , 33 : 13-18 .   DOI:  10.  1016/j.sleep. 2016 . 04 . 004 .
+[92]  Black JE, HullsG, Tiller J, et al.  The long-term tolerability and efficacy   of   armodafinil   in    patients   with    excessive   sleepiness associated   with   treated    obstructive    sleep   apnea ,   shift    work disorder , or narcolepsy : an open-label extension study[J].  JClin sleep Med , 2010 , 6  (5): 458-466 .
+[93]  Roux   FJ.   Restless   legs   syndrome:   impact   on   sleep-related
+
+
+breathing disorders[J] .  Respirology, 2013 , 18  (2): 238-245 . DOI: 10 . 1111/j.1440-1843 . 2012 . 02249 . x.
+[94]  Lakshminarayanan  s ,  Paramasivan   kD,  walters   As ,  et   al.  Clinically  significant  but   unsuspected  restless   legs  syndrome  in patients with sleep apnea[J].  MovDisord , 2005 , 20 (4): 501.  DOI: 10 . 1002/mds.20366 .
+[95]  kagimuraT, NomuraT, kusumi M, et al.  Prospective survey on the natural course  of restless  legs  syndrome  over  two  years in  a closed cohort[J].  sleep Med , 2011 , 12  (9): 821-826 .  DOI:
+10 . 1016/j.sleep. 2011 . 04 . 012 .
+[96]  Delgado  Rodrigues  RN,  PratesiR,   krieger  J.  Outcome   of restless   legs   severity    after    continuous   positive    air   pressure (CPAP) treatment in patients affected by the association of RLs and obstructive sleep  apneas[ J] .   sleep  Med , 2006 , 7  (3): 235-239 .  DOI: 10 . 1016/j.sleep. 2005 . 06 . 009 .
+[97]  Rodrigues  RN,  AaAEsR,   PratesiR,  et  al.    Outcome  of  sleepiness and fatigue scores in obstructive sleep apnea syndrome   patients with and without restless legs syndrome after nasal CPAP [J].  Arq Neuropsiquiatr, 2007 , 65  (1): 54-58 .
+[98]  silva C, Peralta AR, BentesC. The urge to move and breathe- the  impact   of  obstructive   sleep   apnea   syndrome   treatment   in patients with previously diagnosed , clinically  significant  restless legs  syndrome[ J] .   sleep  Med ,  2017 , 38 : 17-20 .   DOI:  10.  1016/j.sleep. 2017 . 06 . 023 .
+[99]  Gabryelska A,  RoguskiA,  simpson  G,  et  al.    Prevalence  of obstructive sleep apnoeain REMbehaviour disorder: response to continuous positive  airway  pressure  therapy[ J] .   sleep Breath , 2017 , 26:1-6 .  DOI: 10 . 1007/s11325-017-1563-9 .
+[100]  schenck CH, Boeve BF, Mahowald Mw.  Delayed emergence of a parkinsonian disorder or dementia in 81%  of older men initially diagnosed  with  idiopathic  rapid  eye  movement  sleep  behavior disorder : a16-year update  on  a  previously  reported  series[J] .
+sleep Med , 2013 , 14  (8): 744-748 .  DOI: 10 . 1016/j.sleep. 2012.10.009.
+[101]  IranzoA.  severe  obstructive  sleep  apnea/hypopnea  mimicking REM sleep behavior disorder[J].  sleep , 2005 , 28  (2): 203- 206.
+[102]  schenck CH, Hurwitz TD, Mahowald Mw.  symposium: Normal and  abnormal   REM  sleep  regulation :  REM  sleep  behaviour disorder : an update on a series of96 patients and a review of the world literature[J].  Jsleep Res, 1993 , 2  (4): 224-231 .
+[103]  BugalhoP, MendongaM, Barbosa R, et al.   The  influence  of sleep disordered breathing in REM sleep behavior disorder[J] .
+sleep Med , 2017 , 37:210-215 .   DOI: 10 . 1016/j.sleep. 2017 . 05.012.
+[104]  Huang J, zhang J, LamsP, et al.  Amelioration of obstructive sleep apnea in REMsleep behavior disorder: implications for the neuromuscular control of OsA[J].  sleep , 2011 , 34  (7): 909- 915 .  DOI: 10 . 5665/sLEEP.1126 .
+
+(收稿日期:2018-04-08) (本文编辑:宋国营)
+
+
+
+
+
+
+
+
+
+
+
+Q2xvdWRWZXJzaW9uLQo?

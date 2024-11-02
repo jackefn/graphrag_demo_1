@@ -1,0 +1,3 @@
+[submodule "autogen_graphRAG_chainlit"]
+	path = autogen_graphRAG_chainlit
+	url = git@github.com:mdwoicke/autogen_graphRAG_chainlit.git
